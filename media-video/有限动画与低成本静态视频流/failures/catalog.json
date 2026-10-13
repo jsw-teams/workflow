@@ -1,0 +1,17 @@
+[
+  {
+    "file": "detour-barrier.mp4",
+    "sha256": "c0645437d2289674b20ef1f38bc02da2bb2fa6f845b3882775ac5e02323adb0d",
+    "duration_seconds": 8,
+    "status": "rejected early diagnostic, not the accepted 150-second film",
+    "tags": [
+      "BYPASS_ACTION_DRIFTS_TO_BARRIER_CLIMB",
+      "HAND_CONTACT_VIOLATES_NO_TOUCH"
+    ],
+    "observation": "Early retry ending extends the free hand onto the rail and raises a leg near the barrier instead of clearly bypassing it; this reads as a climb attempt.",
+    "user_feedback": "明显的翻越护栏问题",
+    "evidence_level": "user feedback and review of decoded pose sequence; no calibrated 3D reconstruction",
+    "timeline_limit": "seven held generated poses with repeats and end hold, not eight seconds of continuous movement",
+    "response": "later completed film switches to separated low-interaction route; third workflow explores whole-scene contact with complex occlusion limits"
+  }
+]
