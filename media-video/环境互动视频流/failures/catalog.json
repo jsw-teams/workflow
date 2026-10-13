@@ -1,0 +1,47 @@
+[
+  {
+    "id": "guardrail-depth",
+    "tags": [
+      "HUMAN_GUARDRAIL_OCCLUSION_AMBIGUOUS"
+    ],
+    "file": "guardrail-depth.png",
+    "sha256": "1790a983d7843eb81d55e3a6490ff2900031c106d74d8d7ac55c109c15b85300",
+    "observation": "Person/rail depth and foot support remain ambiguous."
+  },
+  {
+    "id": "stair-geography",
+    "tags": [
+      "SCENE_GEOMETRY_DRIFT"
+    ],
+    "file": "stair-geography.png",
+    "sha256": "7bf48b83fc94449e4be2a2995f26d3ea2b761424b0058ef5ea2b5b969265eb1e",
+    "observation": "User rejected landing and stair continuity."
+  },
+  {
+    "id": "duplicate-can",
+    "tags": [
+      "PROP_DUPLICATION"
+    ],
+    "file": "duplicate-can.png",
+    "sha256": "0a175e716e47ed100db8c663be987932834f19a7879f365e841e0ff33bec763e",
+    "observation": "Silver can appears in purple bag while original can remains on floor."
+  },
+  {
+    "id": "road-puddle",
+    "tags": [
+      "PEDESTRIAN_PATH_AND_DIRECTION_FAILURE"
+    ],
+    "file": "road-puddle.png",
+    "sha256": "1bd804359d0760dfc55d8fae802160fa5d5e50b6082ae7aaeb62334c2ee6c8f0",
+    "observation": "Puddle moved to roadway edge; facing reverses relative to pickup destination."
+  },
+  {
+    "id": "stair-tread-revision",
+    "tags": [
+      "STAIR_TREAD_GEOMETRY_INVALID"
+    ],
+    "file": "stair-tread-revision.png",
+    "sha256": "46704df0db29266a83975b14a0b97d86c48649046c9055b050d0d1d1098fbc9b",
+    "observation": "User identified abnormal stair treads in final edit: the upper platform, rail slope and implied descending flight do not establish a coherent connected staircase. Entire revision rejected; hand swap is secondary."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "file": "assets/actor-sheet.png",
+    "sha256": "b78c5570d42119827e56d67b3855222d2615cbd9005e6d1f560d0ab1233d8b29",
+    "native_size": [
+      1254,
+      1254
+    ],
+    "provider": "ImageGen"
+  },
+  {
+    "file": "assets/setting.png",
+    "sha256": "afc5a058db50a284aae8d25d114169113a0fd333fbd61f001b7e670aa82b59ab",
+    "native_size": [
+      1672,
+      941
+    ],
+    "provider": "ImageGen"
+  }
+]

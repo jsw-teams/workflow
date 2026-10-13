@@ -1,0 +1,756 @@
+{
+  "grounded": {
+    "method": "visible sole texture template correlation on decoded H.264 frames",
+    "template_size": [
+      21,
+      11
+    ],
+    "window_seconds": 0.25,
+    "minimum_correlation": 0.8,
+    "rejected_cases": "not in one stance cycle, mutually occluded shoes, or correlation below 0.8",
+    "eligible_measurements": 27,
+    "median_pixels": 0.0,
+    "p95_pixels": 3.0,
+    "maximum_pixels": 3.0,
+    "measurements": [
+      {
+        "leg": "rear",
+        "first_frame": 24,
+        "last_frame": 30,
+        "seconds": 0.25,
+        "correlation": 0.99957,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          475,
+          611
+        ],
+        "matched_shoe_point": [
+          475,
+          611
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 39,
+        "last_frame": 45,
+        "seconds": 0.25,
+        "correlation": 0.99326,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          475,
+          611
+        ],
+        "matched_shoe_point": [
+          475,
+          611
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 42,
+        "last_frame": 48,
+        "seconds": 0.25,
+        "correlation": 0.89791,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          475,
+          611
+        ],
+        "matched_shoe_point": [
+          475,
+          611
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 66,
+        "last_frame": 72,
+        "seconds": 0.25,
+        "correlation": 0.99989,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          616,
+          659
+        ],
+        "matched_shoe_point": [
+          616,
+          659
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 69,
+        "last_frame": 75,
+        "seconds": 0.25,
+        "correlation": 0.99977,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          616,
+          659
+        ],
+        "matched_shoe_point": [
+          616,
+          659
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 84,
+        "last_frame": 90,
+        "seconds": 0.25,
+        "correlation": 0.99364,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          616,
+          659
+        ],
+        "matched_shoe_point": [
+          616,
+          659
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 108,
+        "last_frame": 114,
+        "seconds": 0.25,
+        "correlation": 0.99963,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          756,
+          686
+        ],
+        "matched_shoe_point": [
+          756,
+          686
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 111,
+        "last_frame": 117,
+        "seconds": 0.25,
+        "correlation": 0.99959,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          756,
+          686
+        ],
+        "matched_shoe_point": [
+          756,
+          686
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 126,
+        "last_frame": 132,
+        "seconds": 0.25,
+        "correlation": 0.99887,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          756,
+          686
+        ],
+        "matched_shoe_point": [
+          756,
+          686
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 153,
+        "last_frame": 159,
+        "seconds": 0.25,
+        "correlation": 0.9997,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          896,
+          686
+        ],
+        "matched_shoe_point": [
+          896,
+          686
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 171,
+        "last_frame": 177,
+        "seconds": 0.25,
+        "correlation": 0.99774,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          896,
+          686
+        ],
+        "matched_shoe_point": [
+          896,
+          686
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 195,
+        "last_frame": 201,
+        "seconds": 0.25,
+        "correlation": 0.99962,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          1037,
+          685
+        ],
+        "matched_shoe_point": [
+          1037,
+          685
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 198,
+        "last_frame": 204,
+        "seconds": 0.25,
+        "correlation": 0.99959,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          1037,
+          685
+        ],
+        "matched_shoe_point": [
+          1037,
+          685
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 213,
+        "last_frame": 219,
+        "seconds": 0.25,
+        "correlation": 0.99907,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          1037,
+          685
+        ],
+        "matched_shoe_point": [
+          1037,
+          685
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 0,
+        "last_frame": 6,
+        "seconds": 0.25,
+        "correlation": 0.83332,
+        "measured_shoe_displacement_pixels": 3.0,
+        "first_shoe_point": [
+          405,
+          595
+        ],
+        "matched_shoe_point": [
+          402,
+          595
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 3,
+        "last_frame": 9,
+        "seconds": 0.25,
+        "correlation": 0.8743,
+        "measured_shoe_displacement_pixels": 1.4142,
+        "first_shoe_point": [
+          405,
+          595
+        ],
+        "matched_shoe_point": [
+          404,
+          596
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 18,
+        "last_frame": 24,
+        "seconds": 0.25,
+        "correlation": 0.82255,
+        "measured_shoe_displacement_pixels": 3.0,
+        "first_shoe_point": [
+          405,
+          595
+        ],
+        "matched_shoe_point": [
+          402,
+          595
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 63,
+        "last_frame": 69,
+        "seconds": 0.25,
+        "correlation": 0.94339,
+        "measured_shoe_displacement_pixels": 1.0,
+        "first_shoe_point": [
+          545,
+          635
+        ],
+        "matched_shoe_point": [
+          544,
+          635
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 90,
+        "last_frame": 96,
+        "seconds": 0.25,
+        "correlation": 0.85131,
+        "measured_shoe_displacement_pixels": 3.0,
+        "first_shoe_point": [
+          686,
+          678
+        ],
+        "matched_shoe_point": [
+          683,
+          678
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 105,
+        "last_frame": 111,
+        "seconds": 0.25,
+        "correlation": 0.91233,
+        "measured_shoe_displacement_pixels": 2.2361,
+        "first_shoe_point": [
+          686,
+          678
+        ],
+        "matched_shoe_point": [
+          684,
+          679
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 132,
+        "last_frame": 138,
+        "seconds": 0.25,
+        "correlation": 0.92781,
+        "measured_shoe_displacement_pixels": 1.4142,
+        "first_shoe_point": [
+          826,
+          686
+        ],
+        "matched_shoe_point": [
+          825,
+          687
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 147,
+        "last_frame": 153,
+        "seconds": 0.25,
+        "correlation": 0.91421,
+        "measured_shoe_displacement_pixels": 2.0,
+        "first_shoe_point": [
+          826,
+          686
+        ],
+        "matched_shoe_point": [
+          824,
+          686
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 150,
+        "last_frame": 156,
+        "seconds": 0.25,
+        "correlation": 0.99999,
+        "measured_shoe_displacement_pixels": 0.0,
+        "first_shoe_point": [
+          826,
+          686
+        ],
+        "matched_shoe_point": [
+          826,
+          686
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 174,
+        "last_frame": 180,
+        "seconds": 0.25,
+        "correlation": 0.89945,
+        "measured_shoe_displacement_pixels": 1.4142,
+        "first_shoe_point": [
+          967,
+          686
+        ],
+        "matched_shoe_point": [
+          966,
+          687
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 192,
+        "last_frame": 198,
+        "seconds": 0.25,
+        "correlation": 0.94043,
+        "measured_shoe_displacement_pixels": 1.0,
+        "first_shoe_point": [
+          967,
+          686
+        ],
+        "matched_shoe_point": [
+          966,
+          686
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 216,
+        "last_frame": 222,
+        "seconds": 0.25,
+        "correlation": 0.90945,
+        "measured_shoe_displacement_pixels": 2.2361,
+        "first_shoe_point": [
+          1107,
+          676
+        ],
+        "matched_shoe_point": [
+          1105,
+          677
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 219,
+        "last_frame": 225,
+        "seconds": 0.25,
+        "correlation": 0.96208,
+        "measured_shoe_displacement_pixels": 1.0,
+        "first_shoe_point": [
+          1107,
+          676
+        ],
+        "matched_shoe_point": [
+          1107,
+          677
+        ]
+      }
+    ],
+    "scope": "Visible, unoccluded 0.25s stance windows; does not verify hidden feet or an entire anatomical gait."
+  },
+  "sliding_control": {
+    "method": "visible sole texture template correlation on decoded H.264 frames",
+    "template_size": [
+      21,
+      11
+    ],
+    "window_seconds": 0.25,
+    "minimum_correlation": 0.8,
+    "rejected_cases": "not in one stance cycle, mutually occluded shoes, or correlation below 0.8",
+    "eligible_measurements": 18,
+    "median_pixels": 20.0,
+    "p95_pixels": 21.00357,
+    "maximum_pixels": 21.0238,
+    "measurements": [
+      {
+        "leg": "rear",
+        "first_frame": 24,
+        "last_frame": 30,
+        "seconds": 0.25,
+        "correlation": 0.96193,
+        "measured_shoe_displacement_pixels": 20.0,
+        "first_shoe_point": [
+          483,
+          611
+        ],
+        "matched_shoe_point": [
+          503,
+          611
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 42,
+        "last_frame": 48,
+        "seconds": 0.25,
+        "correlation": 0.81138,
+        "measured_shoe_displacement_pixels": 18.6815,
+        "first_shoe_point": [
+          542,
+          611
+        ],
+        "matched_shoe_point": [
+          560,
+          616
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 66,
+        "last_frame": 72,
+        "seconds": 0.25,
+        "correlation": 0.94315,
+        "measured_shoe_displacement_pixels": 20.0,
+        "first_shoe_point": [
+          619,
+          659
+        ],
+        "matched_shoe_point": [
+          639,
+          659
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 69,
+        "last_frame": 75,
+        "seconds": 0.25,
+        "correlation": 0.97003,
+        "measured_shoe_displacement_pixels": 20.0,
+        "first_shoe_point": [
+          629,
+          659
+        ],
+        "matched_shoe_point": [
+          649,
+          659
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 126,
+        "last_frame": 132,
+        "seconds": 0.25,
+        "correlation": 0.81647,
+        "measured_shoe_displacement_pixels": 19.0263,
+        "first_shoe_point": [
+          814,
+          686
+        ],
+        "matched_shoe_point": [
+          833,
+          685
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 153,
+        "last_frame": 159,
+        "seconds": 0.25,
+        "correlation": 0.82904,
+        "measured_shoe_displacement_pixels": 21.0,
+        "first_shoe_point": [
+          902,
+          686
+        ],
+        "matched_shoe_point": [
+          923,
+          686
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 195,
+        "last_frame": 201,
+        "seconds": 0.25,
+        "correlation": 0.87055,
+        "measured_shoe_displacement_pixels": 21.0238,
+        "first_shoe_point": [
+          1039,
+          685
+        ],
+        "matched_shoe_point": [
+          1060,
+          684
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 198,
+        "last_frame": 204,
+        "seconds": 0.25,
+        "correlation": 0.90643,
+        "measured_shoe_displacement_pixels": 21.0,
+        "first_shoe_point": [
+          1049,
+          685
+        ],
+        "matched_shoe_point": [
+          1070,
+          685
+        ]
+      },
+      {
+        "leg": "rear",
+        "first_frame": 213,
+        "last_frame": 219,
+        "seconds": 0.25,
+        "correlation": 0.88609,
+        "measured_shoe_displacement_pixels": 20.1246,
+        "first_shoe_point": [
+          1097,
+          685
+        ],
+        "matched_shoe_point": [
+          1115,
+          676
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 3,
+        "last_frame": 9,
+        "seconds": 0.25,
+        "correlation": 0.86745,
+        "measured_shoe_displacement_pixels": 20.0,
+        "first_shoe_point": [
+          415,
+          595
+        ],
+        "matched_shoe_point": [
+          435,
+          595
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 18,
+        "last_frame": 24,
+        "seconds": 0.25,
+        "correlation": 0.91104,
+        "measured_shoe_displacement_pixels": 19.0263,
+        "first_shoe_point": [
+          464,
+          595
+        ],
+        "matched_shoe_point": [
+          483,
+          596
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 63,
+        "last_frame": 69,
+        "seconds": 0.25,
+        "correlation": 0.96011,
+        "measured_shoe_displacement_pixels": 19.0,
+        "first_shoe_point": [
+          610,
+          635
+        ],
+        "matched_shoe_point": [
+          629,
+          635
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 87,
+        "last_frame": 93,
+        "seconds": 0.25,
+        "correlation": 0.88113,
+        "measured_shoe_displacement_pixels": 19.0,
+        "first_shoe_point": [
+          688,
+          678
+        ],
+        "matched_shoe_point": [
+          707,
+          678
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 90,
+        "last_frame": 96,
+        "seconds": 0.25,
+        "correlation": 0.82526,
+        "measured_shoe_displacement_pixels": 19.0,
+        "first_shoe_point": [
+          697,
+          678
+        ],
+        "matched_shoe_point": [
+          716,
+          678
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 132,
+        "last_frame": 138,
+        "seconds": 0.25,
+        "correlation": 0.92819,
+        "measured_shoe_displacement_pixels": 20.0,
+        "first_shoe_point": [
+          834,
+          686
+        ],
+        "matched_shoe_point": [
+          854,
+          686
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 147,
+        "last_frame": 153,
+        "seconds": 0.25,
+        "correlation": 0.87791,
+        "measured_shoe_displacement_pixels": 19.0263,
+        "first_shoe_point": [
+          883,
+          686
+        ],
+        "matched_shoe_point": [
+          902,
+          687
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 174,
+        "last_frame": 180,
+        "seconds": 0.25,
+        "correlation": 0.94738,
+        "measured_shoe_displacement_pixels": 20.0,
+        "first_shoe_point": [
+          970,
+          686
+        ],
+        "matched_shoe_point": [
+          990,
+          686
+        ]
+      },
+      {
+        "leg": "front",
+        "first_frame": 219,
+        "last_frame": 225,
+        "seconds": 0.25,
+        "correlation": 0.85908,
+        "measured_shoe_displacement_pixels": 17.4642,
+        "first_shoe_point": [
+          1117,
+          676
+        ],
+        "matched_shoe_point": [
+          1134,
+          672
+        ]
+      }
+    ],
+    "scope": "Visible, unoccluded 0.25s stance windows; does not verify hidden feet or an entire anatomical gait."
+  }
+}

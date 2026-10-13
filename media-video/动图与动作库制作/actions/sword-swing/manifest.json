@@ -1,0 +1,147 @@
+{
+  "id": "sword-swing",
+  "character_id": "blue-haired-swordswoman",
+  "tags": [
+    "sword",
+    "swing",
+    "full-scene",
+    "one-shot"
+  ],
+  "source": "source.png",
+  "source_sha256": "6609c5421fc28dea59844534d359ee72d403669da6c97e98dba96a61e5df0075",
+  "source_native_size": [
+    1774,
+    887
+  ],
+  "provider": "ImageGen",
+  "model": null,
+  "seed": null,
+  "seamless_loop": false,
+  "continuous_motion_verified": false,
+  "observations": [
+    "Keyframe reset at preview loop boundary",
+    "Small costume and environment drift; no anatomy or contact validation"
+  ],
+  "frames": [
+    {
+      "file": "frames/01.png",
+      "duration_ms": 160,
+      "native_size": [
+        439,
+        440
+      ],
+      "crop_box": [
+        0,
+        0,
+        439,
+        440
+      ],
+      "sha256": "97efa23c3b89fa9ef28b80a01181e71439e01dd3a84f975d998c8ddc3fb8a8ca"
+    },
+    {
+      "file": "frames/02.png",
+      "duration_ms": 150,
+      "native_size": [
+        437,
+        440
+      ],
+      "crop_box": [
+        446,
+        0,
+        883,
+        440
+      ],
+      "sha256": "9a711f9f4c6b6ab9ab5a327fbfd3965ff00a1d820e952f09284ea2dd51bf2992"
+    },
+    {
+      "file": "frames/03.png",
+      "duration_ms": 160,
+      "native_size": [
+        438,
+        440
+      ],
+      "crop_box": [
+        890,
+        0,
+        1328,
+        440
+      ],
+      "sha256": "886fd46e3dc14309ee61e6f027da912e5ad29865a292873029de092928b2ad77"
+    },
+    {
+      "file": "frames/04.png",
+      "duration_ms": 160,
+      "native_size": [
+        438,
+        440
+      ],
+      "crop_box": [
+        1336,
+        0,
+        1774,
+        440
+      ],
+      "sha256": "8f90e2c8133308b8ce4fd70ed08502752a4f115ab9473335458826bc0443419f"
+    },
+    {
+      "file": "frames/05.png",
+      "duration_ms": 190,
+      "native_size": [
+        439,
+        440
+      ],
+      "crop_box": [
+        0,
+        447,
+        439,
+        887
+      ],
+      "sha256": "9566f345577ddb51e4bf3601d828beb61efe407522ba3bd9a44ed072ea7a415c"
+    },
+    {
+      "file": "frames/06.png",
+      "duration_ms": 180,
+      "native_size": [
+        437,
+        440
+      ],
+      "crop_box": [
+        446,
+        447,
+        883,
+        887
+      ],
+      "sha256": "779ba017c0b42be30fb82a129daa7fbf048591a73e60b2b64097f88afe5ad609"
+    },
+    {
+      "file": "frames/07.png",
+      "duration_ms": 150,
+      "native_size": [
+        438,
+        440
+      ],
+      "crop_box": [
+        890,
+        447,
+        1328,
+        887
+      ],
+      "sha256": "700366b854ebb2b35d552cfbddf94a43abd26aed2f66a91746e791e08a7bc5d6"
+    },
+    {
+      "file": "frames/08.png",
+      "duration_ms": 500,
+      "native_size": [
+        438,
+        440
+      ],
+      "crop_box": [
+        1336,
+        447,
+        1774,
+        887
+      ],
+      "sha256": "64e1f932f97a7f2a39ca861016743b4362ab7b1087322b4f399df776ec097b2d"
+    }
+  ]
+}

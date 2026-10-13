@@ -1,0 +1,5762 @@
+[
+  {
+    "frame": 0,
+    "time": 0.0,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          334.79998779296875,
+          590.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 1,
+    "time": 0.041666666666666664,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          334.79998779296875,
+          590.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 2,
+    "time": 0.08333333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          334.79998779296875,
+          590.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 3,
+    "time": 0.125,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          334.79998779296875,
+          590.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 4,
+    "time": 0.16666666666666666,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          334.79998779296875,
+          590.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 5,
+    "time": 0.20833333333333334,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          334.79998779296875,
+          590.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 6,
+    "time": 0.25,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          335.8062438964844,
+          586.88720703125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 7,
+    "time": 0.2916666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          339.5743408203125,
+          583.5751342773438
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 8,
+    "time": 0.3333333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          345.7768249511719,
+          580.89501953125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 9,
+    "time": 0.375,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          354.03277587890625,
+          578.9212036132812
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 10,
+    "time": 0.4166666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          363.96142578125,
+          577.7137451171875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 11,
+    "time": 0.4583333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          375.181884765625,
+          577.3138427734375
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 12,
+    "time": 0.5,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          387.3133239746094,
+          577.7405395507812
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 13,
+    "time": 0.5416666666666666,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          399.9748840332031,
+          578.9877319335938
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 14,
+    "time": 0.5833333333333334,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          412.7857360839844,
+          581.022216796875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 15,
+    "time": 0.625,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          425.36505126953125,
+          583.7830810546875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 16,
+    "time": 0.6666666666666666,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          437.3319396972656,
+          587.1813354492188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 17,
+    "time": 0.7083333333333334,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          448.30560302734375,
+          591.1015014648438
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 18,
+    "time": 0.75,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          457.90521240234375,
+          595.4035034179688
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 19,
+    "time": 0.7916666666666666,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          465.7498779296875,
+          599.925537109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 20,
+    "time": 0.8333333333333334,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          471.4587707519531,
+          604.48828125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 21,
+    "time": 0.875,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          474.6510314941406,
+          608.898681640625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 22,
+    "time": 0.9166666666666666,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 23,
+    "time": 0.9583333333333334,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 24,
+    "time": 1.0,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 25,
+    "time": 1.0416666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 26,
+    "time": 1.0833333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 0,
+        "sole": [
+          405.0,
+          594.7191162109375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 27,
+    "time": 1.125,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          405.0722961425781,
+          593.8718872070312
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 28,
+    "time": 1.1666666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          407.1969909667969,
+          590.500732421875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 29,
+    "time": 1.2083333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          411.9845275878906,
+          588.0634155273438
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 30,
+    "time": 1.25,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          419.0541076660156,
+          586.59033203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 31,
+    "time": 1.2916666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          428.02484130859375,
+          586.100341796875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 32,
+    "time": 1.3333333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          438.5158996582031,
+          586.5962524414062
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 33,
+    "time": 1.375,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          450.1464538574219,
+          588.0604858398438
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 34,
+    "time": 1.4166666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          462.53564453125,
+          590.4521484375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 35,
+    "time": 1.4583333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          475.3026428222656,
+          593.7041625976562
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 36,
+    "time": 1.5,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          488.0665588378906,
+          597.7220458984375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 37,
+    "time": 1.5416666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          500.4466247558594,
+          602.3833618164062
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 38,
+    "time": 1.5833333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          512.0619506835938,
+          607.5381469726562
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 39,
+    "time": 1.625,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          522.5316772460938,
+          613.0104370117188
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 40,
+    "time": 1.6666666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          531.4749755859375,
+          618.600830078125
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 41,
+    "time": 1.7083333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          538.5110473632812,
+          624.08984375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 42,
+    "time": 1.75,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          543.2589721679688,
+          629.2417602539062
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 43,
+    "time": 1.7916666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 0,
+        "sole": [
+          545.3380126953125,
+          633.8095703125
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 44,
+    "time": 1.8333333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 45,
+    "time": 1.875,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 46,
+    "time": 1.9166666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 47,
+    "time": 1.9583333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 48,
+    "time": 2.0,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          475.20001220703125,
+          611.3883666992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 49,
+    "time": 2.0416666666666665,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          475.77825927734375,
+          609.1131591796875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 50,
+    "time": 2.0833333333333335,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          479.0137939453125,
+          606.2810668945312
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 51,
+    "time": 2.125,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          484.7598571777344,
+          604.5277099609375
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 52,
+    "time": 2.1666666666666665,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          492.6355895996094,
+          603.8594970703125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 53,
+    "time": 2.2083333333333335,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          502.2601623535156,
+          604.2694091796875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 54,
+    "time": 2.25,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          513.2527465820312,
+          605.7325439453125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 55,
+    "time": 2.2916666666666665,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          525.232421875,
+          608.202392578125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 56,
+    "time": 2.3333333333333335,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          537.8184204101562,
+          611.60791015625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 57,
+    "time": 2.375,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          550.6298828125,
+          615.8511352539062
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 58,
+    "time": 2.4166666666666665,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          563.2860107421875,
+          620.8064575195312
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 59,
+    "time": 2.4583333333333335,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          575.4058227539062,
+          626.3203735351562
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 60,
+    "time": 2.5,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          586.608642578125,
+          632.2122192382812
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 61,
+    "time": 2.5416666666666665,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          596.5134887695312,
+          638.2764282226562
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 62,
+    "time": 2.5833333333333335,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          604.7396240234375,
+          644.2850341796875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 63,
+    "time": 2.625,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          610.9061279296875,
+          649.99169921875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 64,
+    "time": 2.6666666666666665,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          614.6322021484375,
+          655.135498046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 65,
+    "time": 2.7083333333333335,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 66,
+    "time": 2.75,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 67,
+    "time": 2.7916666666666665,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 68,
+    "time": 2.8333333333333335,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 69,
+    "time": 2.875,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 1,
+        "sole": [
+          545.4000244140625,
+          634.6307373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 70,
+    "time": 2.9166666666666665,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          545.400390625,
+          634.5665893554688
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 71,
+    "time": 2.9583333333333335,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          546.9468383789062,
+          631.0478515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 72,
+    "time": 3.0,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          551.2322998046875,
+          628.517578125
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 73,
+    "time": 3.0416666666666665,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          557.8759155273438,
+          626.9993896484375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 74,
+    "time": 3.0833333333333335,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          566.4968872070312,
+          626.5062255859375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 75,
+    "time": 3.125,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          576.71435546875,
+          627.0357666015625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 76,
+    "time": 3.1666666666666665,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          588.1474609375,
+          628.5664672851562
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 77,
+    "time": 3.2083333333333335,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          600.4154052734375,
+          631.053466796875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 78,
+    "time": 3.25,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          613.1372680664062,
+          634.4266967773438
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 79,
+    "time": 3.2916666666666665,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          625.9323120117188,
+          638.588623046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 80,
+    "time": 3.3333333333333335,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          638.4196166992188,
+          643.4136962890625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 81,
+    "time": 3.375,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          650.2183227539062,
+          648.7488403320312
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 82,
+    "time": 3.4166666666666665,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          660.9476318359375,
+          654.4146118164062
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 83,
+    "time": 3.4583333333333335,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          670.2267456054688,
+          660.2073974609375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 84,
+    "time": 3.5,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          677.6746826171875,
+          665.9028930664062
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 85,
+    "time": 3.5416666666666665,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          682.9107055664062,
+          671.2597045898438
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 86,
+    "time": 3.5833333333333335,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 1,
+        "sole": [
+          685.553955078125,
+          676.0239868164062
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 87,
+    "time": 3.625,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 88,
+    "time": 3.6666666666666665,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 89,
+    "time": 3.7083333333333335,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 90,
+    "time": 3.75,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 91,
+    "time": 3.7916666666666665,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          615.5999755859375,
+          658.6639404296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 92,
+    "time": 3.8333333333333335,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          615.8659057617188,
+          657.0455932617188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 93,
+    "time": 3.875,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          618.5536499023438,
+          653.6171264648438
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 94,
+    "time": 3.9166666666666665,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          623.8280639648438,
+          650.8970947265625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 95,
+    "time": 3.9583333333333335,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          631.308349609375,
+          648.9481201171875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 96,
+    "time": 4.0,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          640.6136474609375,
+          647.8203735351562
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 97,
+    "time": 4.041666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          651.363037109375,
+          647.547119140625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 98,
+    "time": 4.083333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          663.17578125,
+          648.140625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 99,
+    "time": 4.125,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          675.6710205078125,
+          649.5889282226562
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 100,
+    "time": 4.166666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          688.4678344726562,
+          651.8538818359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 101,
+    "time": 4.208333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          701.1854858398438,
+          654.86962890625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 102,
+    "time": 4.25,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          713.4430541992188,
+          658.5421752929688
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 103,
+    "time": 4.291666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          724.8597412109375,
+          662.7505493164062
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 104,
+    "time": 4.333333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          735.0546264648438,
+          667.3479614257812
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 105,
+    "time": 4.375,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          743.64697265625,
+          672.1649780273438
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 106,
+    "time": 4.416666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          750.255859375,
+          677.0126342773438
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 107,
+    "time": 4.458333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          754.50048828125,
+          681.6867065429688
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 108,
+    "time": 4.5,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 109,
+    "time": 4.541666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 110,
+    "time": 4.583333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 111,
+    "time": 4.625,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 112,
+    "time": 4.666666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 113,
+    "time": 4.708333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 2,
+        "sole": [
+          685.7999877929688,
+          677.7054443359375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 114,
+    "time": 4.75,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          686.8062133789062,
+          674.498779296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 115,
+    "time": 4.791666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          690.5743408203125,
+          670.8352661132812
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 116,
+    "time": 4.833333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          696.7767944335938,
+          667.5767211914062
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 117,
+    "time": 4.875,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          705.0327758789062,
+          664.8330078125
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 118,
+    "time": 4.916666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          714.96142578125,
+          662.6995239257812
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 119,
+    "time": 4.958333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          726.181884765625,
+          661.2532348632812
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 120,
+    "time": 5.0,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          738.3132934570312,
+          660.5485229492188
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 121,
+    "time": 5.041666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          750.974853515625,
+          660.6149291992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 122,
+    "time": 5.083333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          763.7857055664062,
+          661.4546508789062
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 123,
+    "time": 5.125,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          776.3650512695312,
+          663.0423583984375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 124,
+    "time": 5.166666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          788.3319702148438,
+          665.3245849609375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 125,
+    "time": 5.208333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          799.3056030273438,
+          668.2213134765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 126,
+    "time": 5.25,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          808.9052124023438,
+          671.6280517578125
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 127,
+    "time": 5.291666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          816.7498779296875,
+          675.4185180664062
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 128,
+    "time": 5.333333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          822.458740234375,
+          679.4488525390625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 129,
+    "time": 5.375,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 2,
+        "sole": [
+          825.6510620117188,
+          683.5615234375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 130,
+    "time": 5.416666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 131,
+    "time": 5.458333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 132,
+    "time": 5.5,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 133,
+    "time": 5.541666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 134,
+    "time": 5.583333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          756.0,
+          685.9727783203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 135,
+    "time": 5.625,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          756.072265625,
+          685.10498046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 136,
+    "time": 5.666666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          758.1969604492188,
+          681.1302490234375
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 137,
+    "time": 5.708333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          762.9845581054688,
+          677.3328857421875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 138,
+    "time": 5.75,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          770.0540771484375,
+          673.8515014648438
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 139,
+    "time": 5.791666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          779.0248413085938,
+          670.8131713867188
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 140,
+    "time": 5.833333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          789.5159301757812,
+          668.3287353515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 141,
+    "time": 5.875,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          801.146484375,
+          666.4890747070312
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 142,
+    "time": 5.916666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          813.53564453125,
+          665.3612060546875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 143,
+    "time": 5.958333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          826.3026123046875,
+          664.9864501953125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 144,
+    "time": 6.0,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          839.0665893554688,
+          665.37841796875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 145,
+    "time": 6.041666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          851.4465942382812,
+          666.5228271484375
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 146,
+    "time": 6.083333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          863.0619506835938,
+          668.3779296875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 147,
+    "time": 6.125,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          873.5316772460938,
+          670.8760375976562
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 148,
+    "time": 6.166666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          882.4749755859375,
+          673.9258422851562
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 149,
+    "time": 6.208333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          889.5110473632812,
+          677.4160766601562
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 150,
+    "time": 6.25,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          894.2589721679688,
+          681.21923828125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 151,
+    "time": 6.291666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          896.3380126953125,
+          685.1964111328125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 152,
+    "time": 6.333333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 153,
+    "time": 6.375,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 154,
+    "time": 6.416666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 155,
+    "time": 6.458333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 156,
+    "time": 6.5,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 3,
+        "sole": [
+          826.2000122070312,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 157,
+    "time": 6.541666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          826.7782592773438,
+          683.5300903320312
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 158,
+    "time": 6.583333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          830.0137939453125,
+          679.6085815429688
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 159,
+    "time": 6.625,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          835.7598266601562,
+          675.92041015625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 160,
+    "time": 6.666666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          843.6355590820312,
+          672.6002197265625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 161,
+    "time": 6.708333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          853.2601318359375,
+          669.7693481445312
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 162,
+    "time": 6.75,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          864.2527465820312,
+          667.5310668945312
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 163,
+    "time": 6.791666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          876.232421875,
+          665.9671020507812
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 164,
+    "time": 6.833333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          888.8184204101562,
+          665.1346435546875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 165,
+    "time": 6.875,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          901.6298828125,
+          665.06396484375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 166,
+    "time": 6.916666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          914.2860107421875,
+          665.7577514648438
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 167,
+    "time": 6.958333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          926.4058227539062,
+          667.1906127929688
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 168,
+    "time": 7.0,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          937.608642578125,
+          669.3102416992188
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 169,
+    "time": 7.041666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          947.5134887695312,
+          672.039306640625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 170,
+    "time": 7.083333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          955.7396240234375,
+          675.278076171875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 171,
+    "time": 7.125,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          961.9061279296875,
+          678.9082641601562
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 172,
+    "time": 7.166666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 3,
+        "sole": [
+          965.6322021484375,
+          682.7974853515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 173,
+    "time": 7.208333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 174,
+    "time": 7.25,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 175,
+    "time": 7.291666666666667,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 176,
+    "time": 7.333333333333333,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 177,
+    "time": 7.375,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          896.4000244140625,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 178,
+    "time": 7.416666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          896.400390625,
+          685.9356689453125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 179,
+    "time": 7.458333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          897.9468383789062,
+          681.9319458007812
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 180,
+    "time": 7.5,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          902.2322998046875,
+          678.0576171875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 181,
+    "time": 7.541666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          908.8759155273438,
+          674.4556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 182,
+    "time": 7.583333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          917.4968872070312,
+          671.2586059570312
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 183,
+    "time": 7.625,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          927.71435546875,
+          668.5836181640625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 184,
+    "time": 7.666666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          939.1474609375,
+          666.5283813476562
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 185,
+    "time": 7.708333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          951.4154052734375,
+          665.167724609375
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 186,
+    "time": 7.75,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          964.1372680664062,
+          664.5508422851562
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 187,
+    "time": 7.791666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          976.9323120117188,
+          664.69970703125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 188,
+    "time": 7.833333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          989.4196166992188,
+          665.6082763671875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 189,
+    "time": 7.875,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1001.2183227539062,
+          667.242919921875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 190,
+    "time": 7.916666666666667,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1011.9476318359375,
+          669.5435180664062
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 191,
+    "time": 7.958333333333333,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1021.2267456054688,
+          672.426025390625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 192,
+    "time": 8.0,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1028.6746826171875,
+          675.7855224609375
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 193,
+    "time": 8.041666666666666,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1033.9107666015625,
+          679.5001220703125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 194,
+    "time": 8.083333333333334,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1036.553955078125,
+          683.4353637695312
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 195,
+    "time": 8.125,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 196,
+    "time": 8.166666666666666,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 197,
+    "time": 8.208333333333334,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 198,
+    "time": 8.25,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 199,
+    "time": 8.291666666666666,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 4,
+        "sole": [
+          966.5999755859375,
+          686.0
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 200,
+    "time": 8.333333333333334,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          966.8659057617188,
+          684.3109130859375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 201,
+    "time": 8.375,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          969.5536499023438,
+          680.1674194335938
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 202,
+    "time": 8.416666666666666,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          974.8280639648438,
+          676.0440673828125
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 203,
+    "time": 8.458333333333334,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          982.308349609375,
+          672.10498046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 204,
+    "time": 8.5,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          991.6136474609375,
+          668.5016479492188
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 205,
+    "time": 8.541666666666666,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1002.363037109375,
+          665.3685302734375
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 206,
+    "time": 8.583333333333334,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1014.17578125,
+          662.8192138671875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 207,
+    "time": 8.625,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1026.6710205078125,
+          660.9432373046875
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 208,
+    "time": 8.666666666666666,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1039.4678955078125,
+          659.8036499023438
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 209,
+    "time": 8.708333333333334,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1052.1854248046875,
+          659.4358520507812
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 210,
+    "time": 8.75,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1064.4429931640625,
+          659.8472900390625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 211,
+    "time": 8.791666666666666,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1075.8597412109375,
+          661.0182495117188
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 212,
+    "time": 8.833333333333334,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1086.0546875,
+          662.9033813476562
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 213,
+    "time": 8.875,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1094.64697265625,
+          665.4343872070312
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 214,
+    "time": 8.916666666666666,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1101.255859375,
+          668.5237426757812
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 215,
+    "time": 8.958333333333334,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": false,
+        "cycle": 4,
+        "sole": [
+          1105.50048828125,
+          672.068603515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 216,
+    "time": 9.0,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 217,
+    "time": 9.041666666666666,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 218,
+    "time": 9.083333333333334,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 219,
+    "time": 9.125,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 220,
+    "time": 9.166666666666666,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 221,
+    "time": 9.208333333333334,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1036.800048828125,
+          685.0396728515625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 222,
+    "time": 9.25,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1037.8062744140625,
+          681.62060546875
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 223,
+    "time": 9.291666666666666,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1041.5743408203125,
+          677.1615600585938
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 224,
+    "time": 9.333333333333334,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1047.77685546875,
+          672.593505859375
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 225,
+    "time": 9.375,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1056.0328369140625,
+          668.1067504882812
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 226,
+    "time": 9.416666666666666,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1065.96142578125,
+          663.8771362304688
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 227,
+    "time": 9.458333333333334,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1077.181884765625,
+          660.0619506835938
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 228,
+    "time": 9.5,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1089.3133544921875,
+          656.7960205078125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 229,
+    "time": 9.541666666666666,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1101.974853515625,
+          654.189208984375
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 230,
+    "time": 9.583333333333334,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1114.7857666015625,
+          652.3243408203125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 231,
+    "time": 9.625,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1127.364990234375,
+          651.2562255859375
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 232,
+    "time": 9.666666666666666,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1139.3319091796875,
+          651.011962890625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 233,
+    "time": 9.708333333333334,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1150.3056640625,
+          651.5919189453125
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 234,
+    "time": 9.75,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1159.9051513671875,
+          652.9719848632812
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 235,
+    "time": 9.791666666666666,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1167.7498779296875,
+          655.1062622070312
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 236,
+    "time": 9.833333333333334,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1173.458740234375,
+          657.9312744140625
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 237,
+    "time": 9.875,
+    "feet": {
+      "rear": {
+        "planted": false,
+        "cycle": 5,
+        "sole": [
+          1176.6510009765625,
+          661.3700561523438
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 238,
+    "time": 9.916666666666666,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 6,
+        "sole": [
+          1177.199951171875,
+          663.6925659179688
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  },
+  {
+    "frame": 239,
+    "time": 9.958333333333334,
+    "feet": {
+      "rear": {
+        "planted": true,
+        "cycle": 6,
+        "sole": [
+          1177.199951171875,
+          663.6925659179688
+        ],
+        "ik_unreachable_pixels": 0.0
+      },
+      "front": {
+        "planted": true,
+        "cycle": 5,
+        "sole": [
+          1107.0,
+          675.9556884765625
+        ],
+        "ik_unreachable_pixels": 0.0
+      }
+    }
+  }
+]

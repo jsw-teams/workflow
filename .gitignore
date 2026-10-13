@@ -1,0 +1,11 @@
+**/private-production/
+media-video/reorganize_video_domain.py
+media-video/__pycache__/
+**/__pycache__/
+**/output/
+**/logs/
+**/vendor/
+.venv/
+node_modules/
+*.tmp
+.DS_Store
