@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/wangwangit/tts",
+  "commit": "749645c46df7e080561ad0585240f2a29c53e554",
+  "license": "MIT",
+  "files": {
+    "index.js": "57f0941999e5505fb7325074585261c41a4baf7b15843a50787c4ba018754d7b",
+    "LICENSE": "0070d350a1ea8750af7dfc3e8d5e39818d74c575bb0904b835661cb37bc6e585",
+    "README.md": "5ac4d28089a07c68c1e4464fb561ccf15ae31f7df9d3bb2e64ebd55e0840c075",
+    "wrangler.toml": "d8b30d5fe67ecd925d179486bb53dc41ee364cae909f3a426127f223806f2001"
+  }
+}

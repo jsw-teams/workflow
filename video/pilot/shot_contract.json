@@ -1,0 +1,34 @@
+{
+  "project": "雨夜的绿植",
+  "shot_id": "SHOP_CONTACT_01",
+  "intent": "女主走近倒地陶盆，蹲下后右手触碰盆沿，陶盆仍然倒地",
+  "story_beat": "发现问题并建立接触，尚未完成扶正",
+  "not_a_timeline": true,
+  "references": {
+    "scene_master": {"path": "references/scene_master_LOCKED.png", "sha256": "0f9b13c808061f3a8ec8340cc2bc0de0f91e49bf38e83c6495d54fed26ab51de", "immutable": true},
+    "character": {"path": "references/character_reference_CROP.png", "sha256": "2eb6bd3dfdb8f86b20e4b9fc4257e2a63bd2d436a4ead866c0756b02d79e9310"},
+    "prop": {"path": "references/fallen_flowerpot_reference_CROP.png", "sha256": "4b16e5411580633394795556e8a9c78d10f8dbf032397b1cf5e919c763c319e5"}
+  },
+  "immutable_facts": [
+    "同一雨夜花店：右侧木框玻璃门、中央花橱窗、墙灯、湿砖路与排水沟的相对位置稳定",
+    "人物仅一位：东亚成年女性、深青色雨衣、深色长裤、白鞋、米棕斜挎包",
+    "陶盆始终只有一只，初始侧倒在门前右下的地面上",
+    "人物沿人行道由画面左侧向右接近；镜头轴线不反转"
+  ],
+  "action_graph": [
+    {"id": "approach", "object": "pot", "state": "on_side", "hand_contact": false},
+    {"id": "stop_and_notice", "object": "pot", "state": "on_side", "hand_contact": false},
+    {"id": "crouch_and_reach", "object": "pot", "state": "on_side", "hand_contact": false},
+    {"id": "touch_rim", "object": "pot", "state": "on_side", "hand_contact": true}
+  ],
+  "forbidden": [
+    "陶盆在触碰之前自行立起或移动",
+    "陶盆数量变化或复制",
+    "人行道变车道，脚踏在虚空或无关支撑面",
+    "手臂穿透陶盆，或身体被不应处于前景的栏杆、门框截断",
+    "背景更换为另一家商店",
+    "字幕、网格分镜、信息图、图文海报、假播放按钮"
+  ],
+  "completion_condition": "右手已经看得出触及盆沿，花盆仍在原位置侧倒；即完成本镜头，不设脚本固定秒数",
+  "followup_shot": "握紧、逐步扶正并放稳花盆，使用新的已审查状态图作为首帧"
+}

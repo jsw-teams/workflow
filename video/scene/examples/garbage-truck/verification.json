@@ -1,0 +1,102 @@
+{
+  "video": "film.mp4",
+  "video_sha256": "b146722898e7df29e72a36dafcd3e0da8ec43d72ab026606b868a3d7b5e36226",
+  "bytes": 39952544,
+  "duration": 160.0,
+  "frame_count": 3840,
+  "fps": "24/1",
+  "output_resolution": [
+    1920,
+    1080
+  ],
+  "audio_codec": "aac",
+  "audio_duration": 160.0,
+  "full_decode_exit": 0,
+  "decode_errors": "",
+  "selected_generated_poses": 76,
+  "native_source_sizes": [
+    [
+      836,
+      470
+    ],
+    [
+      1672,
+      941
+    ]
+  ],
+  "generated_frames_per_second": null,
+  "voice_included": true,
+  "tts_provider": "wangwangit/tts Microsoft REST bridge, executed locally",
+  "narration_clip_count": 11,
+  "narration_source_seconds": 86.37599999999999,
+  "subtitle_count": 43,
+  "subtitle_filter_present": true,
+  "subtitle_role": "off-screen narration",
+  "archived_failure_cases": 22,
+  "archived_failure_panels": 40,
+  "failure_frames_in_edit": 0,
+  "completed_imagegen_calls": 42,
+  "actual_billing": null,
+  "audio_peak_dbfs": -4.394139077283331,
+  "audio_windows": [
+    {
+      "start": 0,
+      "end": 25,
+      "rms_dbfs": -22.401204018387944
+    },
+    {
+      "start": 25,
+      "end": 45,
+      "rms_dbfs": -23.172022780659596
+    },
+    {
+      "start": 45,
+      "end": 70,
+      "rms_dbfs": -22.982948976512976
+    },
+    {
+      "start": 70,
+      "end": 100,
+      "rms_dbfs": -22.346921640351454
+    },
+    {
+      "start": 100,
+      "end": 125,
+      "rms_dbfs": -22.83376562104202
+    },
+    {
+      "start": 125,
+      "end": 145,
+      "rms_dbfs": -22.02626843496541
+    },
+    {
+      "start": 145,
+      "end": 160,
+      "rms_dbfs": -22.162095203890892
+    }
+  ],
+  "verification_frames": [
+    1.5,
+    20,
+    28,
+    51,
+    68,
+    78,
+    81,
+    87,
+    92.5,
+    118,
+    133,
+    140.5,
+    148,
+    152,
+    157
+  ],
+  "limitations": [
+    "AI visual review, no human comfort ratings",
+    "Stair railing occlusion deferred; no proven dense gait",
+    "1080p output upscales 836x470 panels and 1672x941 singles",
+    "Keyframe holds/cuts, not 24 unique generated poses per second"
+  ],
+  "verification_scope": "Historical original local export before ishare migration; not the transcoded streaming delivery."
+}

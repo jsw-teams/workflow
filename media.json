@@ -1,0 +1,989 @@
+{
+  "version": 1,
+  "provider": "ishare.js.gripe",
+  "images": "original_url preserves exact uploaded bytes; source_sha256 is verified on retrieval",
+  "videos": "HLS delivery is transcoded. source_sha256 identifies the reviewed upload, not current stream bytes. Exact original video bytes are not served by this manifest.",
+  "assets": {
+    "video/actions/sword-swing/preview.gif": {
+      "url": "https://ishare.js.gripe/i/a251d46c86604a64a960ec0e3b985e55/public",
+      "share_url": "https://ishare.js.gripe/s/6cf8e1c761004512940c000b6d54eb74",
+      "source_sha256": "ad1ab2ebdf7995e2f92c3775cd8c721655c81386e89f44b31548907f20ce4357",
+      "source_bytes": 768755,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/a251d46c86604a64a960ec0e3b985e55/original"
+    },
+    "article/sword-swing.gif": {
+      "url": "https://ishare.js.gripe/i/a251d46c86604a64a960ec0e3b985e55/public",
+      "share_url": "https://ishare.js.gripe/s/6cf8e1c761004512940c000b6d54eb74",
+      "source_sha256": "ad1ab2ebdf7995e2f92c3775cd8c721655c81386e89f44b31548907f20ce4357",
+      "source_bytes": 768755,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/a251d46c86604a64a960ec0e3b985e55/original"
+    },
+    "video/actions/sword-swing/source.png": {
+      "url": "https://ishare.js.gripe/i/bfb3e8a4c98d43568e4e74a52f20937d/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "6609c5421fc28dea59844534d359ee72d403669da6c97e98dba96a61e5df0075",
+      "source_bytes": 3196852,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/bfb3e8a4c98d43568e4e74a52f20937d/original"
+    },
+    "article/sword-sheet-source.png": {
+      "url": "https://ishare.js.gripe/i/bfb3e8a4c98d43568e4e74a52f20937d/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "6609c5421fc28dea59844534d359ee72d403669da6c97e98dba96a61e5df0075",
+      "source_bytes": 3196852,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/bfb3e8a4c98d43568e4e74a52f20937d/original"
+    },
+    "video/actions/sword-swing/frames/01.png": {
+      "url": "https://ishare.js.gripe/i/c623c9c4ac144f16908e6ff344ef730e/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "97efa23c3b89fa9ef28b80a01181e71439e01dd3a84f975d998c8ddc3fb8a8ca",
+      "source_bytes": 372249,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/c623c9c4ac144f16908e6ff344ef730e/original"
+    },
+    "video/actions/sword-swing/frames/02.png": {
+      "url": "https://ishare.js.gripe/i/7a146f2a4c6c4f92bc1d2b5eebdba9a4/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "9a711f9f4c6b6ab9ab5a327fbfd3965ff00a1d820e952f09284ea2dd51bf2992",
+      "source_bytes": 371987,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/7a146f2a4c6c4f92bc1d2b5eebdba9a4/original"
+    },
+    "video/actions/sword-swing/frames/03.png": {
+      "url": "https://ishare.js.gripe/i/aeac6d6d3838480db20b9d7b43ec90e7/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "886fd46e3dc14309ee61e6f027da912e5ad29865a292873029de092928b2ad77",
+      "source_bytes": 372900,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/aeac6d6d3838480db20b9d7b43ec90e7/original"
+    },
+    "video/actions/sword-swing/frames/04.png": {
+      "url": "https://ishare.js.gripe/i/b8d4343b0591442d8ba3c1fb7873fd5f/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "8f90e2c8133308b8ce4fd70ed08502752a4f115ab9473335458826bc0443419f",
+      "source_bytes": 375746,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/b8d4343b0591442d8ba3c1fb7873fd5f/original"
+    },
+    "video/actions/sword-swing/frames/05.png": {
+      "url": "https://ishare.js.gripe/i/8cb821370ace46bdba6fe6c9150e8958/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "9566f345577ddb51e4bf3601d828beb61efe407522ba3bd9a44ed072ea7a415c",
+      "source_bytes": 383450,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/8cb821370ace46bdba6fe6c9150e8958/original"
+    },
+    "video/actions/sword-swing/frames/06.png": {
+      "url": "https://ishare.js.gripe/i/51334a6bd3114cd6be108cdb888a13fa/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "779ba017c0b42be30fb82a129daa7fbf048591a73e60b2b64097f88afe5ad609",
+      "source_bytes": 381463,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/51334a6bd3114cd6be108cdb888a13fa/original"
+    },
+    "video/actions/sword-swing/frames/07.png": {
+      "url": "https://ishare.js.gripe/i/9ed53aec8fac4c90b568cfe78f84af0c/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "700366b854ebb2b35d552cfbddf94a43abd26aed2f66a91746e791e08a7bc5d6",
+      "source_bytes": 383890,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/9ed53aec8fac4c90b568cfe78f84af0c/original"
+    },
+    "video/actions/sword-swing/frames/08.png": {
+      "url": "https://ishare.js.gripe/i/2e8caffe6602445382f1087d6d8e5082/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "64e1f932f97a7f2a39ca861016743b4362ab7b1087322b4f399df776ec097b2d",
+      "source_bytes": 377488,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/2e8caffe6602445382f1087d6d8e5082/original"
+    },
+    "video/limited/assets/actor-sheet.png": {
+      "url": "https://ishare.js.gripe/i/bb3e77ed1cf34db9b0a210a0909e0df8/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "b78c5570d42119827e56d67b3855222d2615cbd9005e6d1f560d0ab1233d8b29",
+      "source_bytes": 1054460,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/bb3e77ed1cf34db9b0a210a0909e0df8/original"
+    },
+    "video/limited/assets/setting.png": {
+      "url": "https://ishare.js.gripe/i/56dc7894474f43fcaf93fdf2d28c8fee/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "afc5a058db50a284aae8d25d114169113a0fd333fbd61f001b7e670aa82b59ab",
+      "source_bytes": 3301691,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/56dc7894474f43fcaf93fdf2d28c8fee/original"
+    },
+    "video/limited/evidence/comparison.mp4": {
+      "url": "https://ishare.js.gripe/v/4e4fedc98e284346baa610a7e103a9fe/master.m3u8",
+      "share_url": "https://ishare.js.gripe/s/06dddf936ab946229828447a9e5f7c1c",
+      "source_sha256": "e6f5a587a0aad2f06eeb9716324c28df2974e64ad711dd093e0057200ae04809",
+      "source_bytes": 773161,
+      "kind": "video"
+    },
+    "article/foot-contact-comparison.mp4": {
+      "url": "https://ishare.js.gripe/v/4e4fedc98e284346baa610a7e103a9fe/master.m3u8",
+      "share_url": "https://ishare.js.gripe/s/06dddf936ab946229828447a9e5f7c1c",
+      "source_sha256": "e6f5a587a0aad2f06eeb9716324c28df2974e64ad711dd093e0057200ae04809",
+      "source_bytes": 773161,
+      "kind": "video"
+    },
+    "video/limited/evidence/control.mp4": {
+      "url": "https://ishare.js.gripe/v/78c740abca1f43acb92138f5332ac6f4/master.m3u8",
+      "share_url": "https://ishare.js.gripe/s/3daf2c7b676644ea8f50a494a4495d77",
+      "source_sha256": "bc8c15d105fe8d76990f816c4452df8c250bb5441d064ef606070748af28c24e",
+      "source_bytes": 1431645,
+      "kind": "video"
+    },
+    "video/limited/evidence/grounded.mp4": {
+      "url": "https://ishare.js.gripe/v/80a759eb779b4af99822ff5b10c88c62/master.m3u8",
+      "share_url": "https://ishare.js.gripe/s/088bef10e56f42f1add701cf53893451",
+      "source_sha256": "09c81b6bb64cbaf2422fef9b7d5fdfc6bc9ded83093fe0b1781dd6eb511aadc7",
+      "source_bytes": 1381061,
+      "kind": "video"
+    },
+    "video/limited/examples/rainy-delivery/film.mp4": {
+      "url": "https://ishare.js.gripe/v/39df241f73e44805a8694a7a6fae1ea4/master.m3u8",
+      "share_url": "https://ishare.js.gripe/s/7460b53891784286a607e587c0ce0bdb",
+      "source_sha256": "b4eb20c8135120dbf862faf284755f35a347cb6481da895743afacc5fe006748",
+      "source_bytes": 53109927,
+      "kind": "video"
+    },
+    "video/limited/failures/detour-barrier.mp4": {
+      "url": "https://ishare.js.gripe/v/bd7b502290024316ac9290803207ee5b/master.m3u8",
+      "share_url": "https://ishare.js.gripe/s/6d73fe5a84b34816a1b906b2e33f2f50",
+      "source_sha256": "c0645437d2289674b20ef1f38bc02da2bb2fa6f845b3882775ac5e02323adb0d",
+      "source_bytes": 1691820,
+      "kind": "video"
+    },
+    "article/early-detour-barrier.mp4": {
+      "url": "https://ishare.js.gripe/v/bd7b502290024316ac9290803207ee5b/master.m3u8",
+      "share_url": "https://ishare.js.gripe/s/6d73fe5a84b34816a1b906b2e33f2f50",
+      "source_sha256": "c0645437d2289674b20ef1f38bc02da2bb2fa6f845b3882775ac5e02323adb0d",
+      "source_bytes": 1691820,
+      "kind": "video"
+    },
+    "video/scene/assets/frames/000.png": {
+      "url": "https://ishare.js.gripe/i/c69e8b2f7b5d41ddab5035fb8014638c/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "3c1da2c365cac5615362206995bb631dca9243f79505742b7a671f0b18d9ff8f",
+      "source_bytes": 2409020,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/c69e8b2f7b5d41ddab5035fb8014638c/original"
+    },
+    "video/scene/assets/frames/001.png": {
+      "url": "https://ishare.js.gripe/i/bdf231b2a7434f5d814767016cafc491/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "fbbea7fd0f91f77867f9492c57f0ca14e3bda1077003545d2a1cf59d5299ae7a",
+      "source_bytes": 523514,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/bdf231b2a7434f5d814767016cafc491/original"
+    },
+    "video/scene/assets/frames/002.png": {
+      "url": "https://ishare.js.gripe/i/5b878abc41a846f2abc525ab5e2386f8/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "59e70f85a49c9aec3043f79266d609dff469a1e2bf2f84868614fb8a2d7e92a4",
+      "source_bytes": 521490,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/5b878abc41a846f2abc525ab5e2386f8/original"
+    },
+    "video/scene/assets/frames/003.png": {
+      "url": "https://ishare.js.gripe/i/25c7e1ba70e04ca38aa106b124914f72/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "09b64ff863424f546ce3ea79aae2827136cc26c385148b0294d77a77aa09ec94",
+      "source_bytes": 533807,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/25c7e1ba70e04ca38aa106b124914f72/original"
+    },
+    "video/scene/assets/frames/004.png": {
+      "url": "https://ishare.js.gripe/i/706b00f28a4c4a6e8b9f3baa60bb43a3/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "79163844137c30a398df0a531c7a5f3c4ddb92d7293c6fc924f081529ae6f1cb",
+      "source_bytes": 530428,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/706b00f28a4c4a6e8b9f3baa60bb43a3/original"
+    },
+    "video/scene/assets/frames/005.png": {
+      "url": "https://ishare.js.gripe/i/0fe67d0b1c1f498195038dfae14d7deb/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "a72f91a212a074e12dbc9a53225e4fa02226355f36ae6c0a4ab453fab93eb0f9",
+      "source_bytes": 567560,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/0fe67d0b1c1f498195038dfae14d7deb/original"
+    },
+    "video/scene/assets/frames/006.png": {
+      "url": "https://ishare.js.gripe/i/2c7ce60a023e4f90bdecf61e9c895b7f/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "97a4a1d91df248a9c02a0f9ca2aaef87bf3f72884cbe5f8cb49e797842741830",
+      "source_bytes": 561042,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/2c7ce60a023e4f90bdecf61e9c895b7f/original"
+    },
+    "video/scene/assets/frames/007.png": {
+      "url": "https://ishare.js.gripe/i/5d5e2ec635e042d39dd33bbfacd3e826/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "c62013d88da6818d81bed15adbe203d8c23facadac32178dbb513001c08124e8",
+      "source_bytes": 556356,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/5d5e2ec635e042d39dd33bbfacd3e826/original"
+    },
+    "video/scene/assets/frames/008.png": {
+      "url": "https://ishare.js.gripe/i/46a7651ffc52440a93ab394349f3d4b2/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "cec8935723b66ef4404c8f176990d95abca620824d027064e5407cbe71c3e152",
+      "source_bytes": 1886152,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/46a7651ffc52440a93ab394349f3d4b2/original"
+    },
+    "video/scene/assets/frames/009.png": {
+      "url": "https://ishare.js.gripe/i/0acefe486aae4b8494ff8943271da19c/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "2960092071728e1ee3a532333371c471659292d955ef4d4ffbfb8df527813ba2",
+      "source_bytes": 560967,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/0acefe486aae4b8494ff8943271da19c/original"
+    },
+    "video/scene/assets/frames/010.png": {
+      "url": "https://ishare.js.gripe/i/f7b1c5e2c1e34af0957fa87ce732557a/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "8de9cc342c25b9b26ba82c56a2d114664e02745fbe7c1185f62ad8925fcd0aae",
+      "source_bytes": 558725,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/f7b1c5e2c1e34af0957fa87ce732557a/original"
+    },
+    "video/scene/assets/frames/011.png": {
+      "url": "https://ishare.js.gripe/i/11dbc47b0b7442ee8624b374fe4cda63/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "05a144fe6d996f579dbda43d66058fd6840db80e941c214173d095d653a0586b",
+      "source_bytes": 569228,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/11dbc47b0b7442ee8624b374fe4cda63/original"
+    },
+    "video/scene/assets/frames/012.png": {
+      "url": "https://ishare.js.gripe/i/0d7d49609644433bb98423d28c043799/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "1ef917fc2b0cd30297aef6734565b14c069388765798595446c7382e5aa92352",
+      "source_bytes": 556571,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/0d7d49609644433bb98423d28c043799/original"
+    },
+    "video/scene/assets/frames/013.png": {
+      "url": "https://ishare.js.gripe/i/4bef9c837c0e4f4590f333cb073ed076/public",
+      "share_url": "https://ishare.js.gripe/s/9d9f11bdb41f476fa828a9bc5da32650",
+      "source_sha256": "ecc1099ac705aa8e28ff0cc3e675bd8de7e9f242e64697af48ef7ac934526118",
+      "source_bytes": 583074,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/4bef9c837c0e4f4590f333cb073ed076/original"
+    },
+    "video/scene/assets/frames/014.png": {
+      "url": "https://ishare.js.gripe/i/e82c50fb16644797be1c989dd51e587c/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "42f7b8551d5caf1d06698f452124d3e99c660a69d7cc0d3fcec10efff5c0e989",
+      "source_bytes": 580814,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/e82c50fb16644797be1c989dd51e587c/original"
+    },
+    "video/scene/assets/frames/015.png": {
+      "url": "https://ishare.js.gripe/i/1b5655d183ea473ab11852424a7bbc95/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "335b683edaaf7d7101180fbeafd46170ae59605a484db338b46ccb0ae71dad32",
+      "source_bytes": 578135,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/1b5655d183ea473ab11852424a7bbc95/original"
+    },
+    "video/scene/assets/frames/016.png": {
+      "url": "https://ishare.js.gripe/i/27bb3f2ba9ce452387cf281434a21cb1/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "8963ed7c8375b085354b2d96db4bd2cb6730143003d661d1a544fd3d82e09ad7",
+      "source_bytes": 529518,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/27bb3f2ba9ce452387cf281434a21cb1/original"
+    },
+    "video/scene/assets/frames/017.png": {
+      "url": "https://ishare.js.gripe/i/75a7e0047a3946c2844743fa3aacaf8f/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "f84408c02f2e1b86b01d84b29c44dfabaa8ece03acf7ad11708ee7b8fe9357ee",
+      "source_bytes": 421899,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/75a7e0047a3946c2844743fa3aacaf8f/original"
+    },
+    "video/scene/assets/frames/018.png": {
+      "url": "https://ishare.js.gripe/i/6f2f80934c3642b0908dacae0c2c5078/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "d7e1853f37dabd2c50917ef1ac5528e44c2e9b4e9e6da9dadf557865cf133c3a",
+      "source_bytes": 427244,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/6f2f80934c3642b0908dacae0c2c5078/original"
+    },
+    "video/scene/assets/frames/019.png": {
+      "url": "https://ishare.js.gripe/i/c44a680f1da74d86a90ff9f737271e3f/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "238857e2181706e8cc8b3f9312789c2e83e8d1f1c8d3d28b1e864f5280e8a238",
+      "source_bytes": 411693,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/c44a680f1da74d86a90ff9f737271e3f/original"
+    },
+    "video/scene/assets/frames/020.png": {
+      "url": "https://ishare.js.gripe/i/abf6918e51a3462fbb1bfae621df65a3/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "7b9ae637cd9d5d3b348985f1252f068b5c253a306a2451eb09a870ad887c777b",
+      "source_bytes": 596087,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/abf6918e51a3462fbb1bfae621df65a3/original"
+    },
+    "video/scene/assets/frames/021.png": {
+      "url": "https://ishare.js.gripe/i/2905fc4415894db0960e1546e918ea43/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "976b5ecce541118a6a578a34fde1781803bea5b1d080fa924c02e04886e6b6d2",
+      "source_bytes": 569921,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/2905fc4415894db0960e1546e918ea43/original"
+    },
+    "video/scene/assets/frames/022.png": {
+      "url": "https://ishare.js.gripe/i/b0864a4e86594d908ee1a48168e5c20a/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "5898421bbe3d3ffc0e6cb19e2c9b31771c1d666c54e930eee204971120629733",
+      "source_bytes": 588879,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/b0864a4e86594d908ee1a48168e5c20a/original"
+    },
+    "video/scene/assets/frames/023.png": {
+      "url": "https://ishare.js.gripe/i/045a7bfe2ea74592b3e3130cab9c7678/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "e50320c76bce67be36e87201280648a834d3b1005695c33bd24f43bcf2a7b5fa",
+      "source_bytes": 571067,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/045a7bfe2ea74592b3e3130cab9c7678/original"
+    },
+    "video/scene/assets/frames/024.png": {
+      "url": "https://ishare.js.gripe/i/580f92411eb2457e8a5626e7c506cc68/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "ac211be7fc0121cc88d631ce4c21ca35e7a3c73aaaa45d656480e9d6e5bea1c9",
+      "source_bytes": 2205991,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/580f92411eb2457e8a5626e7c506cc68/original"
+    },
+    "video/scene/assets/frames/025.png": {
+      "url": "https://ishare.js.gripe/i/cf8475c60c454d21bf4c0f4b344b8843/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "6689a25b95693826d11166cc475a1c4ba49163a0e13e3adab9e88fcfefd3a99d",
+      "source_bytes": 644162,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/cf8475c60c454d21bf4c0f4b344b8843/original"
+    },
+    "video/scene/assets/frames/026.png": {
+      "url": "https://ishare.js.gripe/i/ae6846a9a273466dbc21a0c71edcd0be/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "76a87102d7db4cecab5e68cf5903dfbbdef70c5b8f91032f505303f06487800a",
+      "source_bytes": 645477,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/ae6846a9a273466dbc21a0c71edcd0be/original"
+    },
+    "video/scene/assets/frames/027.png": {
+      "url": "https://ishare.js.gripe/i/c657c9f7141c438b9c80ac8bacc334d4/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "6c7fa1a41ac46af374fe84fab304ece784f13bc7ea18104f87c8e38401386e83",
+      "source_bytes": 669807,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/c657c9f7141c438b9c80ac8bacc334d4/original"
+    },
+    "video/scene/assets/frames/028.png": {
+      "url": "https://ishare.js.gripe/i/652bc92440f84df89192245da4005582/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "316e19cc7477331dcf98286a43c7af6e7e9652fb2fbb5b05a950680e29c00a2b",
+      "source_bytes": 641646,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/652bc92440f84df89192245da4005582/original"
+    },
+    "video/scene/assets/frames/029.png": {
+      "url": "https://ishare.js.gripe/i/a2ac8c9e54ed410ab5ad53d8074935d1/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "ad41506b2ac4d094db184cd5e2eefbb225a759310ef1a51920518b95f1853f53",
+      "source_bytes": 645860,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/a2ac8c9e54ed410ab5ad53d8074935d1/original"
+    },
+    "video/scene/assets/frames/030.png": {
+      "url": "https://ishare.js.gripe/i/92f60102217543a3aca035baab536b2a/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "00f13c2132efcfeb79f193a2f60a75d13b6940bc8275f7c1020e820a6d0a1555",
+      "source_bytes": 639078,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/92f60102217543a3aca035baab536b2a/original"
+    },
+    "video/scene/assets/frames/031.png": {
+      "url": "https://ishare.js.gripe/i/6de270e4af7a445abea2f004c06dfefd/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "74acbdde90332ba080445d56df732d2d83984ad621b65c4d1d0958b6d676b73e",
+      "source_bytes": 626273,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/6de270e4af7a445abea2f004c06dfefd/original"
+    },
+    "video/scene/assets/frames/032.png": {
+      "url": "https://ishare.js.gripe/i/876c219a61e44163be82b428561f0111/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "abc581e129296eac49b20574c5350f206d921b0d023c29b2b91101f23b2c0916",
+      "source_bytes": 643568,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/876c219a61e44163be82b428561f0111/original"
+    },
+    "video/scene/assets/frames/033.png": {
+      "url": "https://ishare.js.gripe/i/76f3001ec899478f9068957f026271ed/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "ffed79fefdf7b3d2e59b34dffbfdb7b6b77c26cec76df7b51ea191aaca8e770b",
+      "source_bytes": 633343,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/76f3001ec899478f9068957f026271ed/original"
+    },
+    "video/scene/assets/frames/034.png": {
+      "url": "https://ishare.js.gripe/i/cf5921ccbaf34ea48bae5f8685b05a7a/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "5e269883e8ef3fba86ed8735b84a97a4e209182f507ce18e58d04c5384c9cfef",
+      "source_bytes": 622294,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/cf5921ccbaf34ea48bae5f8685b05a7a/original"
+    },
+    "video/scene/assets/frames/035.png": {
+      "url": "https://ishare.js.gripe/i/883e6fe0a5da479a9f12ef31323ca3d8/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "6e7a3fce88f55b8865755e99362b9da6a28e968db1fc7dcbccdb1bef96d7ea23",
+      "source_bytes": 621655,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/883e6fe0a5da479a9f12ef31323ca3d8/original"
+    },
+    "video/scene/assets/frames/036.png": {
+      "url": "https://ishare.js.gripe/i/63b6deef0db6464cb5eb813a8dd3bc76/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "4478cbda250d19b692a71944ddcf61e6454a6a7071a98e1b3e9dcfb2622f9c72",
+      "source_bytes": 630097,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/63b6deef0db6464cb5eb813a8dd3bc76/original"
+    },
+    "video/scene/assets/frames/037.png": {
+      "url": "https://ishare.js.gripe/i/779619fdfaa44d77be850b83b2bc6654/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "04ce7697fe6e99836a242faecbfbb3ecc7343f495a7e394d51fbced3f8193de5",
+      "source_bytes": 638396,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/779619fdfaa44d77be850b83b2bc6654/original"
+    },
+    "video/scene/assets/frames/038.png": {
+      "url": "https://ishare.js.gripe/i/c670f2e4315b4d0988eff1e3be5be0a6/public",
+      "share_url": "https://ishare.js.gripe/s/c883a9b1df40434c8d53bcfc66e05d67",
+      "source_sha256": "1d7805de92673f4019b4194fcb51ff899e34f2af65211fc40d875618a67fc07a",
+      "source_bytes": 613308,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/c670f2e4315b4d0988eff1e3be5be0a6/original"
+    },
+    "video/scene/assets/frames/039.png": {
+      "url": "https://ishare.js.gripe/i/909bdfb14df24835aa068c0b13116f1a/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "4c300d93c70fb0401225c2970b99c44de346049f1b22bcf5c3889fa2b74043d8",
+      "source_bytes": 2072803,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/909bdfb14df24835aa068c0b13116f1a/original"
+    },
+    "video/scene/assets/frames/040.png": {
+      "url": "https://ishare.js.gripe/i/bbc105b271b14a7489843e38ecca6cdb/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "ea3ef6197491198b5aee3ba630b6d42014027af09539ab53a7f4371ca14c15c1",
+      "source_bytes": 628847,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/bbc105b271b14a7489843e38ecca6cdb/original"
+    },
+    "video/scene/assets/frames/041.png": {
+      "url": "https://ishare.js.gripe/i/e86ce02bb13541aabc84a5c2a5337388/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "9260ef0ec75e131e2d8d376c384a357fe815366f14fa2f19d128c05acbaafc94",
+      "source_bytes": 622735,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/e86ce02bb13541aabc84a5c2a5337388/original"
+    },
+    "video/scene/assets/frames/042.png": {
+      "url": "https://ishare.js.gripe/i/00be29ef93bd42aa89415615ffcf42d8/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "445915ed37cfc3845fa05848fdc1733c511bc108f62e68d00e08afc446567ab3",
+      "source_bytes": 633353,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/00be29ef93bd42aa89415615ffcf42d8/original"
+    },
+    "video/scene/assets/frames/043.png": {
+      "url": "https://ishare.js.gripe/i/d3185274901848ca9c6de33262547a04/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "6906556f0dd1f9e63e8e8075228900172b0d19224a942ef3c9b8a142752df8b6",
+      "source_bytes": 620734,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/d3185274901848ca9c6de33262547a04/original"
+    },
+    "video/scene/assets/frames/044.png": {
+      "url": "https://ishare.js.gripe/i/821404030d0441209a618cab84689ef0/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "932ef5f4b26cde8dc3aa924254742e119645c7ebf1e66af2a23738a73c3151f8",
+      "source_bytes": 631915,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/821404030d0441209a618cab84689ef0/original"
+    },
+    "video/scene/assets/frames/045.png": {
+      "url": "https://ishare.js.gripe/i/a59be558dc624f13a0eadb62d2147daa/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "835efa8dc5b3739cc076976654d98281f7f264784fd5292995e006cbe9e951ac",
+      "source_bytes": 2337258,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/a59be558dc624f13a0eadb62d2147daa/original"
+    },
+    "video/scene/assets/frames/046.png": {
+      "url": "https://ishare.js.gripe/i/bc551584e29147b8ac2b70aa03b256cf/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "799f645d6d3cc319d223daa6f45db6408c7f8a17fc60d52d39c02ae62190564c",
+      "source_bytes": 2654043,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/bc551584e29147b8ac2b70aa03b256cf/original"
+    },
+    "video/scene/assets/frames/047.png": {
+      "url": "https://ishare.js.gripe/i/fe47b472bb754b1782fd0850c3051c7f/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "fe707b0577532b41b8d5e70a897aaec212ce8c61d72a9b7616e09555e2a0906a",
+      "source_bytes": 729152,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/fe47b472bb754b1782fd0850c3051c7f/original"
+    },
+    "video/scene/assets/frames/048.png": {
+      "url": "https://ishare.js.gripe/i/8364f14e2d1b42dc9bf494350da3161d/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "fa392367fc65d65ebf2ca4dc9304fd0352128759b2d4249c56581a39bc414e79",
+      "source_bytes": 781417,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/8364f14e2d1b42dc9bf494350da3161d/original"
+    },
+    "video/scene/assets/frames/049.png": {
+      "url": "https://ishare.js.gripe/i/b3b88ff9f57c4d85a12a9ccccb3ab6ff/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "16af6af1e0a4543e4ca700a5a666fc6320d855e290e007cf7e3bcd4d2ddf2570",
+      "source_bytes": 790158,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/b3b88ff9f57c4d85a12a9ccccb3ab6ff/original"
+    },
+    "video/scene/assets/frames/050.png": {
+      "url": "https://ishare.js.gripe/i/cb07e4d64cf444e9b06a2f6e5ef650d2/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "0915662ff9525066843f783e58ac95b9d0db0bd4f496277a15b1959f71c7f998",
+      "source_bytes": 769501,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/cb07e4d64cf444e9b06a2f6e5ef650d2/original"
+    },
+    "video/scene/assets/frames/051.png": {
+      "url": "https://ishare.js.gripe/i/ca962724553648eb80355bf1f43d3be3/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "dea137d48f2333cbf292cb612367225f9615099c1aa431a844440922b02a5fcb",
+      "source_bytes": 767371,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/ca962724553648eb80355bf1f43d3be3/original"
+    },
+    "video/scene/assets/frames/052.png": {
+      "url": "https://ishare.js.gripe/i/fc196454c13540f4a47f084033fa84f6/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "647057d593a087307e69c4982b4d9aa9ddd259698b5b6d045e654acbb8388ff7",
+      "source_bytes": 767202,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/fc196454c13540f4a47f084033fa84f6/original"
+    },
+    "video/scene/assets/frames/053.png": {
+      "url": "https://ishare.js.gripe/i/9337aba26e394a88bee31b65c3edd4ba/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "ee5ea41f4408f05e180ca16ee41b489a0510972dcf66be8bae14b699a10dfc10",
+      "source_bytes": 650361,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/9337aba26e394a88bee31b65c3edd4ba/original"
+    },
+    "video/scene/assets/frames/054.png": {
+      "url": "https://ishare.js.gripe/i/1bbcb9485e034a4983b0ee5214f75d27/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "97bf742c79cdc0e7cc1ac6eb497e44e65748e6ef3e1934beadd8c11251c0dac2",
+      "source_bytes": 641298,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/1bbcb9485e034a4983b0ee5214f75d27/original"
+    },
+    "video/scene/assets/frames/055.png": {
+      "url": "https://ishare.js.gripe/i/332935f0546f4d718b8ec75ae3f6ed2f/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "b3b83614daa5fd668beeb4b5c3ad423eee2fa808053cbeafacc3afa88ff0b7c4",
+      "source_bytes": 642480,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/332935f0546f4d718b8ec75ae3f6ed2f/original"
+    },
+    "video/scene/assets/frames/056.png": {
+      "url": "https://ishare.js.gripe/i/85b47381f91143d3ae7f230a6c520767/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "0ca4330c6b58af2aeba988c05391218e5ae1ffa7907e0246036789954721cf92",
+      "source_bytes": 649542,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/85b47381f91143d3ae7f230a6c520767/original"
+    },
+    "video/scene/assets/frames/057.png": {
+      "url": "https://ishare.js.gripe/i/156ac44c540844efb990b54ae2f7082b/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "fbe1e8e5be30a11538cd20b2ffd4407381e135d3d6cc4bcc39141d2821046138",
+      "source_bytes": 722347,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/156ac44c540844efb990b54ae2f7082b/original"
+    },
+    "video/scene/assets/frames/058.png": {
+      "url": "https://ishare.js.gripe/i/8e06cb685001460e93f8c1f24ed2978f/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "878647136ad3ae1002aca77d6b1924a87ac115ce104f55648933899701c8d75d",
+      "source_bytes": 676247,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/8e06cb685001460e93f8c1f24ed2978f/original"
+    },
+    "video/scene/assets/frames/059.png": {
+      "url": "https://ishare.js.gripe/i/3fa53eaa74a343639826e799e93d6060/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "06901c0577874ffb8df9c96e9d6e6e95ad9f79320b7aab33cbe52148ef772eb4",
+      "source_bytes": 697622,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/3fa53eaa74a343639826e799e93d6060/original"
+    },
+    "video/scene/assets/frames/060.png": {
+      "url": "https://ishare.js.gripe/i/c554324b35c145d0833d94fbdebbb2ee/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "c712c91f8f8752da55c034f0eadf222644ef18426df4b36c11af19f66116726b",
+      "source_bytes": 663959,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/c554324b35c145d0833d94fbdebbb2ee/original"
+    },
+    "video/scene/assets/frames/061.png": {
+      "url": "https://ishare.js.gripe/i/9e60579f3e4343fdba78494551e332b6/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "0239d6d31246ed8abe16ef22e8551ae9145d4ec9146e0287095049940c64729f",
+      "source_bytes": 2643254,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/9e60579f3e4343fdba78494551e332b6/original"
+    },
+    "video/scene/assets/frames/062.png": {
+      "url": "https://ishare.js.gripe/i/af79d371a6ef402d89e6cd5408be6335/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "a932914bbd7d36f79d964575b5273a60ef5978feff6dcf2cd8d362836320269f",
+      "source_bytes": 758952,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/af79d371a6ef402d89e6cd5408be6335/original"
+    },
+    "video/scene/assets/frames/063.png": {
+      "url": "https://ishare.js.gripe/i/d149925b83894f9aa2499fbcc7e3bb32/public",
+      "share_url": "https://ishare.js.gripe/s/7b1960db990f4cd1a45abd2faa7abcaa",
+      "source_sha256": "aca63151c69e33639bfc5cf2e6abe83bf8234205d3e3340337aa57944bfa450b",
+      "source_bytes": 741998,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/d149925b83894f9aa2499fbcc7e3bb32/original"
+    },
+    "video/scene/assets/frames/064.png": {
+      "url": "https://ishare.js.gripe/i/5352c3c9e87f40c38b856ccc6ef4009c/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "3ad3afa033ffe7241d0b6b2759637c5eb00586ad501edfda1b6fadea2d1a84d9",
+      "source_bytes": 757401,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/5352c3c9e87f40c38b856ccc6ef4009c/original"
+    },
+    "video/scene/assets/frames/065.png": {
+      "url": "https://ishare.js.gripe/i/b728ac170a9d4de8a4314fa651878a30/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "559ee9777ea9e555b9f930719c26b98192dbbc2a2c1c5775743b936970d43f3f",
+      "source_bytes": 758440,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/b728ac170a9d4de8a4314fa651878a30/original"
+    },
+    "video/scene/assets/frames/066.png": {
+      "url": "https://ishare.js.gripe/i/878a6379eafe4879b8b390135ff1140c/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "7392daac12e9b85fc40996fbc0d5530c8f0937a75c48ec168d0af77551aa95bc",
+      "source_bytes": 718604,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/878a6379eafe4879b8b390135ff1140c/original"
+    },
+    "video/scene/assets/frames/067.png": {
+      "url": "https://ishare.js.gripe/i/3bee7902d4874380bf8f48a6d4716baf/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "fb54d4a1fdf910f77138b22ec58339ee1a4a6bf7d70308a23a3fffef2ea1fc6a",
+      "source_bytes": 693626,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/3bee7902d4874380bf8f48a6d4716baf/original"
+    },
+    "video/scene/assets/frames/068.png": {
+      "url": "https://ishare.js.gripe/i/59004f2c8e3e4cb59720267e2062f866/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "543e7d65a39137ac203189d1512c0f918fe653a707271f2c3b319c1a712d2859",
+      "source_bytes": 702758,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/59004f2c8e3e4cb59720267e2062f866/original"
+    },
+    "video/scene/assets/frames/069.png": {
+      "url": "https://ishare.js.gripe/i/31c600ec25c04538b74dabafcb1f43b2/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "63951aaac86a9041915fb05b54e70af7c4bf67fd99d9bee50a8c140635caa1e9",
+      "source_bytes": 728648,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/31c600ec25c04538b74dabafcb1f43b2/original"
+    },
+    "video/scene/assets/frames/070.png": {
+      "url": "https://ishare.js.gripe/i/a2da06e34ab04caba5ddfb1ae62c2315/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "3c70afdcf68eeffe7aebfc701f1ba8c7123a0e8fbc723f99da515189f5f3ef09",
+      "source_bytes": 2694749,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/a2da06e34ab04caba5ddfb1ae62c2315/original"
+    },
+    "video/scene/assets/frames/071.png": {
+      "url": "https://ishare.js.gripe/i/ec3f47d6321a438baa09e432aed1fb13/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "dcb85d2a4f0ee49d0a0be544e0ee967f0f3667d6be7f838dfcaf45be2364b632",
+      "source_bytes": 2523379,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/ec3f47d6321a438baa09e432aed1fb13/original"
+    },
+    "video/scene/assets/frames/072.png": {
+      "url": "https://ishare.js.gripe/i/a5cdbb7f43fc44ac85727b6d3a3bec89/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "dc7b9dc4ee958ae6db84eb3443465e3f44543b62e220d67acff985fd4ed5bbfb",
+      "source_bytes": 669859,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/a5cdbb7f43fc44ac85727b6d3a3bec89/original"
+    },
+    "video/scene/assets/frames/073.png": {
+      "url": "https://ishare.js.gripe/i/0f287d58b7ce4230b7e5295b60119e60/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "f6b5d403599e09b44c1bd8ee6e58e866f392e28deaf7bf4f77c1aa6b463d656f",
+      "source_bytes": 666373,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/0f287d58b7ce4230b7e5295b60119e60/original"
+    },
+    "video/scene/assets/frames/074.png": {
+      "url": "https://ishare.js.gripe/i/c779bfe7532340398a323c8d293eb36f/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "7d18824d411f5ac291d8acc75c85cfe710e2327f23807c67840a7bac2c234500",
+      "source_bytes": 664054,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/c779bfe7532340398a323c8d293eb36f/original"
+    },
+    "video/scene/assets/frames/075.png": {
+      "url": "https://ishare.js.gripe/i/02efbd0d2e234c98917c34ecc8086a6c/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "4caedd55fdd0b10ef061a2b7b9e71efa8572b6e1491a32cd05ec1f312d17c0d9",
+      "source_bytes": 2441338,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/02efbd0d2e234c98917c34ecc8086a6c/original"
+    },
+    "video/scene/examples/garbage-truck/poster.png": {
+      "url": "https://ishare.js.gripe/i/02efbd0d2e234c98917c34ecc8086a6c/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "4caedd55fdd0b10ef061a2b7b9e71efa8572b6e1491a32cd05ec1f312d17c0d9",
+      "source_bytes": 2441338,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/02efbd0d2e234c98917c34ecc8086a6c/original"
+    },
+    "article/garbage-truck-poster-source.png": {
+      "url": "https://ishare.js.gripe/i/02efbd0d2e234c98917c34ecc8086a6c/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "4caedd55fdd0b10ef061a2b7b9e71efa8572b6e1491a32cd05ec1f312d17c0d9",
+      "source_bytes": 2441338,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/02efbd0d2e234c98917c34ecc8086a6c/original"
+    },
+    "video/scene/examples/garbage-truck/film.mp4": {
+      "url": "https://ishare.js.gripe/v/f08984a076c04faabdf922a7046b088c/master.m3u8",
+      "share_url": "https://ishare.js.gripe/s/f410eb1ff6d3493ea7280c99623472f4",
+      "source_sha256": "b146722898e7df29e72a36dafcd3e0da8ec43d72ab026606b868a3d7b5e36226",
+      "source_bytes": 39952544,
+      "kind": "video"
+    },
+    "video/scene/failures/duplicate-can.png": {
+      "url": "https://ishare.js.gripe/i/33ffdc3329dc4241be614fda46eadba6/public",
+      "share_url": "https://ishare.js.gripe/s/70063dca45634c6aaf7bac640a610ecc",
+      "source_sha256": "0a175e716e47ed100db8c663be987932834f19a7879f365e841e0ff33bec763e",
+      "source_bytes": 609987,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/33ffdc3329dc4241be614fda46eadba6/original"
+    },
+    "article/duplicate-can.png": {
+      "url": "https://ishare.js.gripe/i/33ffdc3329dc4241be614fda46eadba6/public",
+      "share_url": "https://ishare.js.gripe/s/70063dca45634c6aaf7bac640a610ecc",
+      "source_sha256": "0a175e716e47ed100db8c663be987932834f19a7879f365e841e0ff33bec763e",
+      "source_bytes": 609987,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/33ffdc3329dc4241be614fda46eadba6/original"
+    },
+    "video/scene/failures/guardrail-depth.png": {
+      "url": "https://ishare.js.gripe/i/e97f85aeb5d240309fc592e2713df338/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "1790a983d7843eb81d55e3a6490ff2900031c106d74d8d7ac55c109c15b85300",
+      "source_bytes": 2420307,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/e97f85aeb5d240309fc592e2713df338/original"
+    },
+    "article/guardrail-depth.png": {
+      "url": "https://ishare.js.gripe/i/e97f85aeb5d240309fc592e2713df338/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "1790a983d7843eb81d55e3a6490ff2900031c106d74d8d7ac55c109c15b85300",
+      "source_bytes": 2420307,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/e97f85aeb5d240309fc592e2713df338/original"
+    },
+    "video/scene/failures/road-puddle.png": {
+      "url": "https://ishare.js.gripe/i/a8cc049d58b540a1812fd24a99c2f22f/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "1bd804359d0760dfc55d8fae802160fa5d5e50b6082ae7aaeb62334c2ee6c8f0",
+      "source_bytes": 3067663,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/a8cc049d58b540a1812fd24a99c2f22f/original"
+    },
+    "article/road-puddle.png": {
+      "url": "https://ishare.js.gripe/i/a8cc049d58b540a1812fd24a99c2f22f/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "1bd804359d0760dfc55d8fae802160fa5d5e50b6082ae7aaeb62334c2ee6c8f0",
+      "source_bytes": 3067663,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/a8cc049d58b540a1812fd24a99c2f22f/original"
+    },
+    "video/scene/failures/stair-geography.png": {
+      "url": "https://ishare.js.gripe/i/9f684c8d816643389ca637e27711e5bd/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "7bf48b83fc94449e4be2a2995f26d3ea2b761424b0058ef5ea2b5b969265eb1e",
+      "source_bytes": 2411739,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/9f684c8d816643389ca637e27711e5bd/original"
+    },
+    "video/scene/failures/stair-tread-revision.png": {
+      "url": "https://ishare.js.gripe/i/26391250652443629afd07b599189589/public",
+      "share_url": "https://ishare.js.gripe/s/ac8edeb3e3a34fd8996225f36a80a11b",
+      "source_sha256": "46704df0db29266a83975b14a0b97d86c48649046c9055b050d0d1d1098fbc9b",
+      "source_bytes": 2385313,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/26391250652443629afd07b599189589/original"
+    },
+    "article/stair-failure.png": {
+      "url": "https://ishare.js.gripe/i/26391250652443629afd07b599189589/public",
+      "share_url": "https://ishare.js.gripe/s/ac8edeb3e3a34fd8996225f36a80a11b",
+      "source_sha256": "46704df0db29266a83975b14a0b97d86c48649046c9055b050d0d1d1098fbc9b",
+      "source_bytes": 2385313,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/26391250652443629afd07b599189589/original"
+    },
+    "article/door-closeup.jpg": {
+      "url": "https://ishare.js.gripe/i/9527bf962c684264b610e523a23ad60a/public",
+      "share_url": "https://ishare.js.gripe/s/c1c8b13cec2b4584bb8b17cdafcdccb8",
+      "source_sha256": "8337ce875cf3bfb8915c097dccfa5612f7321f35c5d46eec03c6d47ebc439bfb",
+      "source_bytes": 172779,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/9527bf962c684264b610e523a23ad60a/original"
+    },
+    "article/early-detour-barrier.mp4.poster.jpg": {
+      "url": "https://ishare.js.gripe/i/c8189a3cfff24c3d909af516eb4188f0/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "9f590e1e4716b883d990219e0551c2e2837bb72d1dc04aec002062b4d2f8096f",
+      "source_bytes": 98930,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/c8189a3cfff24c3d909af516eb4188f0/original"
+    },
+    "article/foot-contact-comparison.mp4.poster.jpg": {
+      "url": "https://ishare.js.gripe/i/87caf6c7631f4edfb60a43c5ebe1ce41/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "c5592418926b799f5caa186abffba77ac171912ede89ebb5d02832db048223c1",
+      "source_bytes": 101841,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/87caf6c7631f4edfb60a43c5ebe1ce41/original"
+    },
+    "article/garbage-truck.mp4": {
+      "url": "https://ishare.js.gripe/v/01368eff89354162a1811ba8dcfb30b5/master.m3u8",
+      "share_url": "https://ishare.js.gripe/s/16ce7795e910421bb0a3704516c6e2ae",
+      "source_sha256": "f87daf3ffc4b6767cbdf41d013acba03fcb673363f8ca28471de93299415530e",
+      "source_bytes": 12565411,
+      "kind": "video"
+    },
+    "article/garbage-truck.mp4.poster.jpg": {
+      "url": "https://ishare.js.gripe/i/ca643858000541378daf754256c53196/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "c7c6427e7787be5746530d3530836bf85644a97eb685953577f86c645c27a099",
+      "source_bytes": 79323,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/ca643858000541378daf754256c53196/original"
+    },
+    "article/rainy-delivery.mp4": {
+      "url": "https://ishare.js.gripe/v/ed30703f51e34fbe9c6ce8048044de83/master.m3u8",
+      "share_url": "https://ishare.js.gripe/s/f42efcc645514d17b02ad44b8e73e157",
+      "source_sha256": "83d14b94a34c2602607657cba0b422d392b82c08a414cd803f66404baf026c4f",
+      "source_bytes": 13447605,
+      "kind": "video"
+    },
+    "article/rainy-delivery.mp4.poster.jpg": {
+      "url": "https://ishare.js.gripe/i/a44b91fe2602465eb46c885b2c3a46a6/public",
+      "share_url": "https://ishare.js.gripe/s/a0f37feeddee433584e03a25fc0ee724",
+      "source_sha256": "3127a860906cd063b06ddcd73082e9919d7bf9c68f7ffd8d9260d8f7afdf33ff",
+      "source_bytes": 97847,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/a44b91fe2602465eb46c885b2c3a46a6/original"
+    },
+    "video/pilot/references/scene_master_LOCKED.png": {
+      "url": "https://ishare.js.gripe/i/ed1527cd90204099892a9f30ecd16b7a/public",
+      "share_url": "https://ishare.js.gripe/s/96e8ced0e85744baa9d3d2ea0c9c8dc9",
+      "source_sha256": "0f9b13c808061f3a8ec8340cc2bc0de0f91e49bf38e83c6495d54fed26ab51de",
+      "source_bytes": 3043524,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/ed1527cd90204099892a9f30ecd16b7a/original"
+    },
+    "video/pilot/references/character_reference_CROP.png": {
+      "url": "https://ishare.js.gripe/i/ad99ec5c0eff41bf83bb4f58e60676a1/public",
+      "share_url": "https://ishare.js.gripe/s/4c1951bf80df4ccd8ec17d930fae0cfb",
+      "source_sha256": "2eb6bd3dfdb8f86b20e4b9fc4257e2a63bd2d436a4ead866c0756b02d79e9310",
+      "source_bytes": 284705,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/ad99ec5c0eff41bf83bb4f58e60676a1/original"
+    },
+    "video/pilot/references/fallen_flowerpot_reference_CROP.png": {
+      "url": "https://ishare.js.gripe/i/fd1294adcf3e4ecb86b975e4a501b542/public",
+      "share_url": "https://ishare.js.gripe/s/290348d07cc044dbb875c21760898e03",
+      "source_sha256": "4b16e5411580633394795556e8a9c78d10f8dbf032397b1cf5e919c763c319e5",
+      "source_bytes": 284066,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/fd1294adcf3e4ecb86b975e4a501b542/original"
+    },
+    "video/pilot/trial-01.mp4": {
+      "url": "https://ishare.js.gripe/v/3c707e7981164c54bc683320454c747e/master.m3u8",
+      "share_url": "https://ishare.js.gripe/s/f9eabaa6e1274bd893cb81ecba2777f1",
+      "source_sha256": "7752d420a5d9eff1f708d1c4f2a37f4a52d1365075faf2b381ef34b178b7b69e",
+      "source_bytes": 7176075,
+      "kind": "video"
+    },
+    "video/pilot/contact-sheet.png": {
+      "url": "https://ishare.js.gripe/i/998b3cf4bf0b445d9c91bccee62b40b1/public",
+      "share_url": "https://ishare.js.gripe/s/abbfe9224d774606b1c76c73ac6ccc3a",
+      "source_sha256": "e2287af54618375454bca485d287b2fc07d5cd0fb68239e093976b43bcd7b717",
+      "source_bytes": 1511264,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/998b3cf4bf0b445d9c91bccee62b40b1/original"
+    },
+    "video/pilot/frame-216.png": {
+      "url": "https://ishare.js.gripe/i/c1f42104eb2c43128ccae663cd7191e6/public",
+      "share_url": "https://ishare.js.gripe/s/7b7568ed80d443bab3997dd6548549e7",
+      "source_sha256": "e4ca331be539edaba8f6c7364e66542c03ef77039d4eb8ac21d28681e2c9fe39",
+      "source_bytes": 1339857,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/c1f42104eb2c43128ccae663cd7191e6/original"
+    },
+    "video/pilot/frame-239.png": {
+      "url": "https://ishare.js.gripe/i/54a5c9873c6a48de9723178ba41931b9/public",
+      "share_url": "https://ishare.js.gripe/s/a5743987e62647139ee225603ac22a60",
+      "source_sha256": "4b736cac7e457bc1843ccf37e1fec5ca8b7b7c1d3bb2086c1c5ce2c6e3b9e95e",
+      "source_bytes": 1298714,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/54a5c9873c6a48de9723178ba41931b9/original"
+    },
+    "video/pilot/storyboard.png": {
+      "url": "https://ishare.js.gripe/i/7ab46aefe75d40659492aa69ecd2a587/public",
+      "share_url": "https://ishare.js.gripe/s/69f380246b204b18b308e9956d2575a5",
+      "source_sha256": "8ebc3e10e311d5378af405e68adb587febefaee9b87409bfafd7a3730974c5f3",
+      "source_bytes": 3174814,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/7ab46aefe75d40659492aa69ecd2a587/original"
+    }
+  }
+}

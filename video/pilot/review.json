@@ -1,0 +1,140 @@
+{
+  "shot_id": "SHOP_CONTACT_01",
+  "source_video": "media.json#video/pilot/trial-01.mp4",
+  "source_video_sha256": "7752d420a5d9eff1f708d1c4f2a37f4a52d1365075faf2b381ef34b178b7b69e",
+  "reference_audit": {
+    "scene_master": {
+      "path": "references/scene_master_LOCKED.png",
+      "sha256_actual": "0f9b13c808061f3a8ec8340cc2bc0de0f91e49bf38e83c6495d54fed26ab51de",
+      "verified": true
+    },
+    "character": {
+      "path": "references/character_reference_CROP.png",
+      "sha256_actual": "2eb6bd3dfdb8f86b20e4b9fc4257e2a63bd2d436a4ead866c0756b02d79e9310",
+      "verified": true
+    },
+    "prop": {
+      "path": "references/fallen_flowerpot_reference_CROP.png",
+      "sha256_actual": "4b16e5411580633394795556e8a9c78d10f8dbf032397b1cf5e919c763c319e5",
+      "verified": true
+    }
+  },
+  "video_audit": {
+    "fps": 24.0,
+    "frames_reported": 240,
+    "frames_decoded": 240,
+    "duration_sec_observed": 10.0,
+    "resolution": [
+      1280,
+      720
+    ],
+    "codec": "h264",
+    "audio_stream_exists": true,
+    "review_frames": 12,
+    "stillness_candidates": [],
+    "sample_rate_for_activity": 4.0,
+    "note": "Motion heuristics are not event completion or physical correctness proofs."
+  },
+  "technical_errors": [],
+  "auto_review_warnings": [],
+  "semantic_checklist_FOR_CODEX_OR_HUMAN": {
+    "prompt_type": {
+      "status": "PASS",
+      "evidence": "all_frames_1.jpg through all_frames_5.jpg: continuous animated shop scene, not infographic or montage."
+    },
+    "reference_binding": {
+      "status": "UNVERIFIED",
+      "evidence": "Local reference hashes match. Actual submission attachment, prompt and request evidence are unavailable. User reports gemini.google.com and Gemini 4 only."
+    },
+    "scene_geography": {
+      "status": "PASS",
+      "evidence": "frame references: f000_t0.000.png, f120_t5.000.png, f156_t6.500.png, f216_t9.000.png, f239_t9.958.png: door, window, curb, gutter stay spatially coherent despite gentle camera tracking."
+    },
+    "character_identity": {
+      "status": "PASS",
+      "evidence": "All five complete-frame sheets: one woman with consistent teal jacket, dark trousers, white shoes and tan bag."
+    },
+    "prop_inventory": {
+      "status": "PASS",
+      "evidence": "All 240 frames: one fallen target planter, still on its side; existing upright background containers preserved. Exact immobility not inferred from inventory."
+    },
+    "action_causality": {
+      "status": "UNVERIFIED",
+      "evidence": "No pottery contact or applied force is observed. tail_contact_detail.png shows foliage movement and slight rim projection change alongside camera tracking; exact immobility versus small autonomous movement cannot be established."
+    },
+    "hand_occlusion": {
+      "status": "UNVERIFIED",
+      "evidence": "frame references: f180_t7.500.png, f216_t9.000.png and f239_t9.958.png show hand separated from terracotta rim. No visible penetration, but contact occlusion itself was never demonstrated."
+    },
+    "foot_support": {
+      "status": "PASS",
+      "evidence": "All-frame sheets and frame references: f156_t6.500.png: stepping and crouching shoes remain supported on wet paved surface, not gutter or empty space."
+    },
+    "camera_axis": {
+      "status": "PASS",
+      "evidence": "All-frame sheets: left-to-right approach without axis flip; gentle tracking instead of requested fixed camera is noted, not a geography failure."
+    },
+    "narrative_progress": {
+      "status": "FAIL",
+      "evidence": "P1: approach, stop, crouch, reach occur; touch_rim is absent through frame 239 at 9.958333 s. f216 shows visible hand-to-pottery gap."
+    },
+    "edit_transition": {
+      "status": "UNVERIFIED",
+      "evidence": "Only one clip; no adjoining shot exists for continuity review."
+    }
+  },
+  "verdict": "NEEDS_REVIEW",
+  "disclaimer": "Technical checks cannot prove contact, spatial coherence, or narrative quality; no automatic PASS.",
+  "event_observation": {
+    "event_reached": false,
+    "observed_completion_sec": null,
+    "suggested_cut_sec": null,
+    "purposeful_hold_after_completion": null,
+    "hold_reason": "Completion never occurs; no post-completion hold or dead_tail assigned.",
+    "last_observed_frame_index": 239,
+    "last_observed_frame_time_sec": 9.958333333333334,
+    "completion_condition": "Visible RIGHT-hand contact with pottery rim while planter remains tipped in original place."
+  },
+  "review_evidence": "REVIEW.md",
+  "actual_generation_provenance": {
+    "website_as_reported": "gemini.google.com",
+    "model_label_as_reported": "Gemini 4",
+    "underlying_video_model_version": null
+  },
+  "media_check_status": "PASS",
+  "do_not_promote_source_ending_to_approved_state": true,
+  "evidence_note": "Frame numbers refer to the 240-frame original reviewed download; public streaming rendition may be re-encoded.",
+  "evidence_assets": {
+    "trial-01.mp4": {
+      "url": "https://ishare.js.gripe/v/3c707e7981164c54bc683320454c747e/master.m3u8",
+      "share_url": "https://ishare.js.gripe/s/f9eabaa6e1274bd893cb81ecba2777f1",
+      "source_sha256": "7752d420a5d9eff1f708d1c4f2a37f4a52d1365075faf2b381ef34b178b7b69e",
+      "source_bytes": 7176075,
+      "kind": "video"
+    },
+    "frame-216.png": {
+      "url": "https://ishare.js.gripe/i/c1f42104eb2c43128ccae663cd7191e6/public",
+      "share_url": "https://ishare.js.gripe/s/7b7568ed80d443bab3997dd6548549e7",
+      "source_sha256": "e4ca331be539edaba8f6c7364e66542c03ef77039d4eb8ac21d28681e2c9fe39",
+      "source_bytes": 1339857,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/c1f42104eb2c43128ccae663cd7191e6/original"
+    },
+    "frame-239.png": {
+      "url": "https://ishare.js.gripe/i/54a5c9873c6a48de9723178ba41931b9/public",
+      "share_url": "https://ishare.js.gripe/s/a5743987e62647139ee225603ac22a60",
+      "source_sha256": "4b736cac7e457bc1843ccf37e1fec5ca8b7b7c1d3bb2086c1c5ce2c6e3b9e95e",
+      "source_bytes": 1298714,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/54a5c9873c6a48de9723178ba41931b9/original"
+    },
+    "contact-sheet.png": {
+      "url": "https://ishare.js.gripe/i/998b3cf4bf0b445d9c91bccee62b40b1/public",
+      "share_url": "https://ishare.js.gripe/s/abbfe9224d774606b1c76c73ac6ccc3a",
+      "source_sha256": "e2287af54618375454bca485d287b2fc07d5cd0fb68239e093976b43bcd7b717",
+      "source_bytes": 1511264,
+      "kind": "image",
+      "original_url": "https://ishare.js.gripe/i/998b3cf4bf0b445d9c91bccee62b40b1/original"
+    }
+  }
+}
